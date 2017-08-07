@@ -1,0 +1,252 @@
+[
+    {
+        "user": "U6GHN174M",
+        "text": "<@U6GHN174M|chris> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501845071.166676"
+    },
+    {
+        "user": "U6GHN174M",
+        "purpose": "talk about only repository related things",
+        "text": "<@U6GHN174M|chris> set the channel purpose: talk about only repository related things",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1501845072.167006"
+    },
+    {
+        "user": "U6GHG87HB",
+        "inviter": "U6GHN174M",
+        "text": "<@U6GHG87HB|paul.apelt> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501845110.177330"
+    },
+    {
+        "user": "U6GUPSJ2Y",
+        "inviter": "U6GHN174M",
+        "text": "<@U6GUPSJ2Y|stevelon> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501845110.177360"
+    },
+    {
+        "user": "U6GC3A740",
+        "inviter": "U6GHN174M",
+        "text": "<@U6GC3A740|alphanovabrian> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501845110.177395"
+    },
+    {
+        "user": "U6HEWMKC4",
+        "inviter": "U6GHN174M",
+        "text": "<@U6HEWMKC4|adalton> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501845110.177424"
+    },
+    {
+        "user": "U6FQVARFA",
+        "inviter": "U6GHN174M",
+        "text": "<@U6FQVARFA|wenjie_> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501845110.177465"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "So I was trying to make folders in git and put the minutes in there, but I forgot how to work git and I fucked up the folders so I'm just going to leave it and hopefully someone else can fix it :slightly_smiling_face:",
+        "thread_ts": "1501845154.189760",
+        "reply_count": 15,
+        "replies": [
+            {
+                "user": "U6GHG87HB",
+                "ts": "1501845248.215985"
+            },
+            {
+                "user": "U6GHN174M",
+                "ts": "1501845265.220697"
+            },
+            {
+                "user": "U6GHN174M",
+                "ts": "1501845320.235817"
+            },
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1501845790.367768"
+            },
+            {
+                "user": "U6GHN174M",
+                "ts": "1501845843.382564"
+            },
+            {
+                "user": "U6GHG87HB",
+                "ts": "1501845893.396746"
+            },
+            {
+                "user": "U6GHG87HB",
+                "ts": "1501845924.405812"
+            },
+            {
+                "user": "U6GHG87HB",
+                "ts": "1501845934.408697"
+            },
+            {
+                "user": "U6GHN174M",
+                "ts": "1501846020.432762"
+            },
+            {
+                "user": "U6GHN174M",
+                "ts": "1501846025.434163"
+            },
+            {
+                "user": "U6FQVARFA",
+                "ts": "1501891759.688224"
+            },
+            {
+                "user": "U6FQVARFA",
+                "ts": "1501891774.690410"
+            },
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1501896740.240430"
+            },
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1501896810.246929"
+            },
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1501903092.726750"
+            }
+        ],
+        "unread_count": 15,
+        "ts": "1501845154.189760"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "Just send me the structure you want, I'll fix it tomorrow night when I get home.",
+        "edited": {
+            "user": "U6GHG87HB",
+            "ts": "1501846043.000000"
+        },
+        "thread_ts": "1501845154.189760",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1501845248.215985"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "haha thanks :smile:",
+        "thread_ts": "1501845154.189760",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1501845265.220697"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "I was just thinking like a minutes folder which had client minutes, group minutes and tutor minutes in it",
+        "thread_ts": "1501845154.189760",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1501845320.235817"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Tomorrow, I may give it a look in the morning. I'll check through the stuff Jordan sent us as well, and try to get some of that information sorted.\nIf i get around to it first, I'll also make a contents sheet",
+        "thread_ts": "1501845154.189760",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1501845790.367768"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "Cool. I just need to figure out how to clone the repository since I haven't done it in about a year ",
+        "thread_ts": "1501845154.189760",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1501845843.382564"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "git clone *address*",
+        "thread_ts": "1501845154.189760",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1501845893.396746"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "Try one of those git quick start tutorials, they have lists of handy commands",
+        "thread_ts": "1501845154.189760",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1501845924.405812"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "Or git cheatsheets",
+        "thread_ts": "1501845154.189760",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1501845934.408697"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "yeah I did but I don't have the correct rights",
+        "thread_ts": "1501845154.189760",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1501846020.432762"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "i'll try that tomorrow cheers",
+        "thread_ts": "1501845154.189760",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1501846025.434163"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "try using the ssh address instead of the URL ",
+        "thread_ts": "1501845154.189760",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1501891759.688224"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "the cecs gitlab is weird with that ",
+        "thread_ts": "1501845154.189760",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1501891774.690410"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Some of the old images were &gt;10MB, which is the gitlab limit. Anybody have preferences for how to handle it? Could either compress the data, or host externally.\n\nAlso, for reference, I've made a separate branch to add stuff in. I messed up folders so will need to rename (swap names) on two of them. Or swap the contents.",
+        "thread_ts": "1501845154.189760",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1501896740.240430"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "I've added them in a zip for the moment. Feel free to change that if needed",
+        "thread_ts": "1501845154.189760",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1501896810.246929"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "All relevant files have been added to our Git,I think.\n\nStill need to reverse the names of folders",
+        "thread_ts": "1501845154.189760",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1501903092.726750"
+    }
+]

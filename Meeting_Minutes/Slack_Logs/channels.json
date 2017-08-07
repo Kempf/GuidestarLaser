@@ -1,0 +1,106 @@
+[
+    {
+        "id": "C6HACRXFY",
+        "name": "general",
+        "created": "1501588595",
+        "creator": "U6GHG87HB",
+        "is_archived": false,
+        "is_general": true,
+        "members": [
+            "U6FQVARFA",
+            "U6GC3A740",
+            "U6GHG87HB",
+            "U6GHN174M",
+            "U6GUPSJ2Y",
+            "U6HEWMKC4"
+        ],
+        "topic": {
+            "value": "Company-wide announcements and work-based matters",
+            "creator": "U6GHG87HB",
+            "last_set": "1501588595"
+        },
+        "purpose": {
+            "value": "This channel is for team-wide communication and announcements. All team members are in this channel.",
+            "creator": "U6GHG87HB",
+            "last_set": "1501588595"
+        }
+    },
+    {
+        "id": "C6K3A6QKY",
+        "name": "meetings",
+        "created": "1501845219",
+        "creator": "U6GHN174M",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U6FQVARFA",
+            "U6GC3A740",
+            "U6GHG87HB",
+            "U6GHN174M",
+            "U6GUPSJ2Y",
+            "U6HEWMKC4"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Use to organise meeting agendas, availability, location and apologies",
+            "creator": "U6GHN174M",
+            "last_set": "1501845220"
+        }
+    },
+    {
+        "id": "C6HGG5M71",
+        "name": "random",
+        "created": "1501588595",
+        "creator": "U6GHG87HB",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U6FQVARFA",
+            "U6GC3A740",
+            "U6GHG87HB",
+            "U6GHN174M",
+            "U6GUPSJ2Y",
+            "U6HEWMKC4"
+        ],
+        "topic": {
+            "value": "Non-work banter and water cooler conversation",
+            "creator": "U6GHG87HB",
+            "last_set": "1501588595"
+        },
+        "purpose": {
+            "value": "A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.",
+            "creator": "U6GHG87HB",
+            "last_set": "1501588595"
+        }
+    },
+    {
+        "id": "C6K9C0WSK",
+        "name": "repository",
+        "created": "1501845071",
+        "creator": "U6GHN174M",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U6FQVARFA",
+            "U6GC3A740",
+            "U6GHG87HB",
+            "U6GHN174M",
+            "U6GUPSJ2Y",
+            "U6HEWMKC4"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "talk about only repository related things",
+            "creator": "U6GHN174M",
+            "last_set": "1501845072"
+        }
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U6GHN174M",
+        "text": "<@U6GHN174M|chris> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501845218.058420"
+    },
+    {
+        "user": "U6GHN174M",
+        "purpose": "Use to organise meeting agendas, availability, location and apologies",
+        "text": "<@U6GHN174M|chris> set the channel purpose: Use to organise meeting agendas, availability, location and apologies",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1501845220.058718"
+    },
+    {
+        "user": "U6GHG87HB",
+        "inviter": "U6GHN174M",
+        "text": "<@U6GHG87HB|paul.apelt> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501845220.058732"
+    },
+    {
+        "user": "U6FQVARFA",
+        "inviter": "U6GHN174M",
+        "text": "<@U6FQVARFA|wenjie_> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501845220.058745"
+    },
+    {
+        "user": "U6GUPSJ2Y",
+        "inviter": "U6GHN174M",
+        "text": "<@U6GUPSJ2Y|stevelon> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501845220.058770"
+    },
+    {
+        "user": "U6GC3A740",
+        "inviter": "U6GHN174M",
+        "text": "<@U6GC3A740|alphanovabrian> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501845220.058784"
+    },
+    {
+        "user": "U6HEWMKC4",
+        "inviter": "U6GHN174M",
+        "text": "<@U6HEWMKC4|adalton> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501845220.058798"
+    }
+]

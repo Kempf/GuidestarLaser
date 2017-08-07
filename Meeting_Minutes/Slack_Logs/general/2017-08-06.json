@@ -1,0 +1,176 @@
+[
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Sounds good to me. Do we want to start a google doc to brainstorm?",
+        "attachments": [
+            {
+                "fallback": "[August 6th, 2017 4:10 PM] stevelon: One thing we may want to create is a general plan for the coming week",
+                "ts": "1501999850.374913",
+                "author_subname": "stevelon",
+                "channel_id": "C6HACRXFY",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "One thing we may want to create is a general plan for the coming week",
+                "author_name": "Steve Lonergan",
+                "author_link": "https:\/\/guidestarlaser.slack.com\/team\/stevelon",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/0223fadaf5cb6e337174fe8ff8ab9a3c.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0003-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/guidestarlaser.slack.com\/archives\/C6HACRXFY\/p1501999850374913",
+                "is_share": true,
+                "footer": "Posted in #general"
+            }
+        ],
+        "thread_ts": "1502003299.550267",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1502014292.142022"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1502003299.550267"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Google with a link to it (open to all with link) in a text file.\nI'm gonna make us a rough schedule showing when all our meetings and whatnot are. Will upload that soon. ",
+        "thread_ts": "1502003299.550267",
+        "parent_user_id": "U6HEWMKC4",
+        "ts": "1502014292.142022"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "Hey, have the minutes been uploaded to the repository? I can't seem to find them",
+        "ts": "1502015992.239890"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "i'm just making the repository presentable for the audit that's theoretically tomorrow",
+        "ts": "1502016015.241362"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "Nope I haven't been able to clone the repository ",
+        "ts": "1502016021.241745"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "can you upload them manually through the website instead? i've just been working through the website because i'm having the same problems",
+        "thread_ts": "1502016056.243490",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6GHG87HB",
+                "ts": "1502025025.781706"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1502016056.243490"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "I can upload them here if you want to organise it ",
+        "ts": "1502016097.245843"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "sure, that's fine",
+        "ts": "1502016222.252762"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "I've just uploaded the link to our repository to wattle. Are the permissions set correctly?",
+        "thread_ts": "1502018775.397994",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6GHG87HB",
+                "ts": "1502024971.777840"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1502018775.397994"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "yes",
+        "thread_ts": "1502018775.397994",
+        "parent_user_id": "U6GUPSJ2Y",
+        "ts": "1502024971.777840"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "uploaded",
+        "thread_ts": "1502016056.243490",
+        "parent_user_id": "U6FQVARFA",
+        "ts": "1502025025.781706"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "i messaged chris about who we needed to set permissions for",
+        "ts": "1502026982.914415"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "he said that he didn't know who our shadows would be",
+        "ts": "1502026989.914869"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "since we're not doing fridays anymore",
+        "ts": "1502027005.916001"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "well, he asked us to confirm what day we want tutorials on",
+        "ts": "1502027043.918458"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "i think we decided on friday for the audit and then monday afterwards?",
+        "ts": "1502027209.929643"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Yes i think that is what we agreed on",
+        "ts": "1502052357.891905"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "I responded to him with that, let's see what he says ",
+        "ts": "1502064530.894357"
+    },
+    {
+        "type": "message",
+        "user": "U6GC3A740",
+        "text": "which room are we going to have audit?",
+        "ts": "1502074109.151574"
+    },
+    {
+        "type": "message",
+        "user": "U6GC3A740",
+        "text": "oh, never mind, I thought we are going to take  audit today ",
+        "ts": "1502074611.222140"
+    }
+]

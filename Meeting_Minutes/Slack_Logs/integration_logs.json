@@ -1,0 +1,21 @@
+[
+    {
+        "user_id": "U6GHG87HB",
+        "user_name": "paul.apelt",
+        "date": "1501924974",
+        "change_type": "added",
+        "service_id": "221978887520",
+        "service_type": "Incoming WebHooks",
+        "scope": "incoming-webhook",
+        "channel": "C6K9C0WSK"
+    },
+    {
+        "user_id": 0,
+        "user_name": "slack",
+        "date": "1501588595",
+        "change_type": "added",
+        "service_id": "221352883446",
+        "service_type": "Google Drive",
+        "scope": "files:write:user"
+    }
+]

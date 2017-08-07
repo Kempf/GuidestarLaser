@@ -1,0 +1,141 @@
+[
+    {
+        "user": "U6GHG87HB",
+        "text": "<@U6GHG87HB|paul.apelt> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501588595.664909"
+    },
+    {
+        "user": "U6GHN174M",
+        "text": "<@U6GHN174M|chris> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501589534.973171"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "<https:\/\/beta.doodle.com\/poll\/8xbe2gybtrpbgkfq>",
+        "attachments": [
+            {
+                "title": "Doodle: 4221 Tutorial with Chris",
+                "title_link": "https:\/\/beta.doodle.com\/poll\/8xbe2gybtrpbgkfq",
+                "text": "I doubt everyone is able to come and I would like to keep the time as what Chris suggested from 12-1 cause he is rarely free.",
+                "fallback": "Doodle: 4221 Tutorial with Chris",
+                "image_url": "https:\/\/beta.doodle.com\/graphics\/static\/facebookSharingThumbnail.png",
+                "from_url": "https:\/\/beta.doodle.com\/poll\/8xbe2gybtrpbgkfq",
+                "image_width": 300,
+                "image_height": 200,
+                "image_bytes": 6864,
+                "service_icon": "https:\/\/beta.doodle.com\/dist\/i\/650dd6854eeca2499449e1a762978fc2.png",
+                "service_name": "beta.doodle.com",
+                "id": 1
+            }
+        ],
+        "ts": "1501590032.143128"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "yeah I'm okay with that",
+        "ts": "1501590331.249834"
+    },
+    {
+        "user": "U6FQVARFA",
+        "text": "<@U6FQVARFA|wenjie_> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501593713.729035"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "has anybody responded to his email and said okay?",
+        "ts": "1501644280.974528"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "not me",
+        "ts": "1501644482.007977"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "I think we should just say yes and get everyone else to work around it",
+        "ts": "1501648494.668863"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "<!everyone>",
+        "ts": "1501648506.671030"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "sure",
+        "thread_ts": "1501648561.680766",
+        "reply_count": 4,
+        "replies": [
+            {
+                "user": "U6GHN174M",
+                "ts": "1501648836.725631"
+            },
+            {
+                "user": "U6GHG87HB",
+                "ts": "1501648985.749635"
+            },
+            {
+                "user": "U6GHN174M",
+                "ts": "1501649074.763012"
+            },
+            {
+                "user": "U6GHG87HB",
+                "ts": "1501649131.772054"
+            }
+        ],
+        "unread_count": 4,
+        "ts": "1501648561.680766"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "so I know that you aren't able to make the meeting with chris on friday at the intended time of 12 you sure I can just tell Chris that it's ok",
+        "thread_ts": "1501648561.680766",
+        "parent_user_id": "U6GHG87HB",
+        "ts": "1501648836.725631"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "Yeah that would be great. Wattle mentions you can miss a tutorial if you have a good excuse. But if this becomes our regular time slot I'm gonna have a problem, since there is assessment during tutorials.",
+        "thread_ts": "1501648561.680766",
+        "parent_user_id": "U6GHG87HB",
+        "ts": "1501648985.749635"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "yeah I think that this will be ok since I think that it will be our first client meeting, but we will have to discuss later if it's a permanent things",
+        "thread_ts": "1501648561.680766",
+        "parent_user_id": "U6GHG87HB",
+        "ts": "1501649074.763012"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "Alrighty.",
+        "thread_ts": "1501648561.680766",
+        "parent_user_id": "U6GHG87HB",
+        "ts": "1501649131.772054"
+    },
+    {
+        "user": "U6GUPSJ2Y",
+        "text": "<@U6GUPSJ2Y|stevelon> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501649743.869507"
+    }
+]

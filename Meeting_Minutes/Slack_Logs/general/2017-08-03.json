@@ -1,0 +1,109 @@
+[
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "yeah i'll need a ride probably",
+        "ts": "1501754011.289535"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "Where are we meeting tomorrow?",
+        "thread_ts": "1501760944.467829",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1501764231.613014"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1501760944.467829"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Design studio",
+        "thread_ts": "1501760944.467829",
+        "parent_user_id": "U6GHG87HB",
+        "ts": "1501764231.613014"
+    },
+    {
+        "type": "message",
+        "user": "U6GC3A740",
+        "text": "anybody here？I'm in engineering ",
+        "ts": "1501807912.676921"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "I'll be there in about 15 minutes, have to travel from the other side of the uni ",
+        "ts": "1501807980.691236"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "I'm be there in 5",
+        "ts": "1501808056.707269"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Im here ",
+        "ts": "1501808177.732405"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Im out the front of engineering now guys",
+        "ts": "1501817660.448385"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "I'm at the union court intersection, which side of the building are you at?",
+        "ts": "1501817789.468367"
+    },
+    {
+        "type": "message",
+        "user": "U6GC3A740",
+        "text": "where are you guys?",
+        "ts": "1501818406.565781"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "Did you need a lift? Cause we already left cause you didn't say that you needed a lift",
+        "ts": "1501818530.585599"
+    },
+    {
+        "type": "message",
+        "user": "U6GC3A740",
+        "text": "Actually yes，sorry about that ",
+        "ts": "1501818627.600501"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "Dunno what we can do cause we are almost there and idk about everyone else?",
+        "ts": "1501818708.613376"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "There already",
+        "ts": "1501818722.615604"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "Same",
+        "ts": "1501818915.646264"
+    },
+    {
+        "type": "message",
+        "user": "U6GC3A740",
+        "text": "alright, don't think I can make it today, I'll do some homework to catch up ",
+        "ts": "1501819387.722456"
+    }
+]

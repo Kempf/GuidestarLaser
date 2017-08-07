@@ -1,0 +1,110 @@
+[
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "has somebody replied to him? I'm in class so I can't do it until later tonight ",
+        "ts": "1501659182.828377"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "yeah chris did",
+        "ts": "1501659201.834270"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "Yeah I cc'd everyone in the email if you wanted to know what I said :stuck_out_tongue:",
+        "ts": "1501667842.841396"
+    },
+    {
+        "user": "U6GC3A740",
+        "text": "<@U6GC3A740|alphanovabrian> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501675970.350455"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "<!everyone> As per Chris' email did we want to meet at 11 to discuss details before we head to Mt stromlo or did we want to squeeze the most of the 12:55 to 1:30 time? ",
+        "ts": "1501718281.996943"
+    },
+    {
+        "user": "U6HEWMKC4",
+        "text": "<@U6HEWMKC4|adalton> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501718832.155294"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "if we must, I'd rather we met at 11",
+        "ts": "1501719019.204601"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "yeah I'm free all through the morning so I'm fine with that ",
+        "ts": "1501724980.451809"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Same here. Free whenever",
+        "ts": "1501725920.639690"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Im easy",
+        "ts": "1501726407.731416"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "<@U6GC3A740> are you ok with meeting at 11?",
+        "ts": "1501726765.797854"
+    },
+    {
+        "type": "message",
+        "user": "U6GC3A740",
+        "text": "yeah, I'm free all day ",
+        "ts": "1501729563.305246"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "so we can say 11am tomorrow Ian Ross design studio area cya all there :slightly_smiling_face:",
+        "ts": "1501736123.397338"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Sounds good",
+        "ts": "1501737390.607491",
+        "reactions": [
+            {
+                "name": "grimacing",
+                "users": [
+                    "U6GHN174M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U6GUPSJ2Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Also, let me know if you need a ride up to stromlo ",
+        "ts": "1501740360.110047"
+    }
+]

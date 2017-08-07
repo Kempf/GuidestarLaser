@@ -1,0 +1,168 @@
+[
+    {
+        "text": "added an integration to this channel: <https:\/\/guidestarlaser.slack.com\/services\/B6HUSS3FA|incoming-webhook>",
+        "bot_id": "B6HUSS3FA",
+        "bot_link": "<https:\/\/guidestarlaser.slack.com\/services\/B6HUSS3FA|incoming-webhook>",
+        "type": "message",
+        "subtype": "bot_add",
+        "user": "U6GHG87HB",
+        "ts": "1501924974.030536"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/84c44d74082f51da9456e1bf05b2cc6e0a0388c4...a3f9bbc1623d3088ce242440a936c26b5ac77968|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/a3f9bbc1623d3088ce242440a936c26b5ac77968|a3f9bbc1>: Updated readme\n - Paul Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/a3f9bbc1623d3088ce242440a936c26b5ac77968|a3f9bbc1>: Updated readme\n - Paul Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "thread_ts": "1501925281.047838",
+        "reply_count": 3,
+        "replies": [
+            {
+                "user": "U6GHG87HB",
+                "ts": "1501925507.061368"
+            },
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1501928299.224275"
+            },
+            {
+                "user": "U6GHG87HB",
+                "ts": "1501938244.843466"
+            }
+        ],
+        "unread_count": 3,
+        "ts": "1501925281.047838"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "testing gitlab integration - useful? yay\/nay",
+        "thread_ts": "1501925281.047838",
+        "ts": "1501925507.061368"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Yeah, so long as it limits it to not every push or edit",
+        "thread_ts": "1501925281.047838",
+        "ts": "1501928299.224275"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "yeah, about that...",
+        "thread_ts": "1501925281.047838",
+        "ts": "1501938244.843466"
+    },
+    {
+        "text": "Wen Jie  Mu pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/a3f9bbc1623d3088ce242440a936c26b5ac77968...4d4b0d3ba0954e4082e27a7f0e6f390ef89f1d80|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/4d4b0d3ba0954e4082e27a7f0e6f390ef89f1d80|4d4b0d3b>: add main contents - Wen Jie  Mu",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/4d4b0d3ba0954e4082e27a7f0e6f390ef89f1d80|4d4b0d3b>: add main contents - Wen Jie  Mu",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1501994373.861267"
+    },
+    {
+        "text": "Wen Jie  Mu pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/4d4b0d3ba0954e4082e27a7f0e6f390ef89f1d80...4a4daf2639d16ff1effcb6a402cea9339b37ecc3|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/4a4daf2639d16ff1effcb6a402cea9339b37ecc3|4a4daf26>: Update Contents file - Wen Jie  Mu",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/4a4daf2639d16ff1effcb6a402cea9339b37ecc3|4a4daf26>: Update Contents file - Wen Jie  Mu",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1501994461.865235"
+    },
+    {
+        "text": "Wen Jie  Mu pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/4a4daf2639d16ff1effcb6a402cea9339b37ecc3...74be52bb550ed6dd9df3bbc54add7227d3357c34|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/74be52bb550ed6dd9df3bbc54add7227d3357c34|74be52bb>: Delete Contents - Wen Jie  Mu",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/74be52bb550ed6dd9df3bbc54add7227d3357c34|74be52bb>: Delete Contents - Wen Jie  Mu",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1501994775.879110"
+    },
+    {
+        "text": "Wen Jie  Mu pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/74be52bb550ed6dd9df3bbc54add7227d3357c34...07e04d1985c831fd083a7e923c211d52062d0dd2|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/07e04d1985c831fd083a7e923c211d52062d0dd2|07e04d19>: Update README.md - Wen Jie  Mu",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/07e04d1985c831fd083a7e923c211d52062d0dd2|07e04d19>: Update README.md - Wen Jie  Mu",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1501995348.904619"
+    },
+    {
+        "text": "Wen Jie  Mu pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/07e04d1985c831fd083a7e923c211d52062d0dd2...ae69b537da068eede2d5f14f210f3015dcfc9004|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/ae69b537da068eede2d5f14f210f3015dcfc9004|ae69b537>: Update README.md - Wen Jie  Mu",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/ae69b537da068eede2d5f14f210f3015dcfc9004|ae69b537>: Update README.md - Wen Jie  Mu",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1501995395.906629"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "for some reason whenever i pull from git the files don't actually appear and my repository doesn't update",
+        "thread_ts": "1501995576.915668",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1501995760.926567"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1501995576.915668"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "I just ended up using the website for all I did",
+        "thread_ts": "1501995576.915668",
+        "parent_user_id": "U6FQVARFA",
+        "ts": "1501995760.926567"
+    }
+]
