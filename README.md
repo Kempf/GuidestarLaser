@@ -41,3 +41,6 @@ contains the contents and breakdown, in order to avoid oversaturating this file.
 this contains the evolving project requirements in the main document, as well 
 as comments and other updates that do not fit into the "Current Status". 
 
+7. Project Artifacts: this directory contains techincal project documents and
+deliverables. Confidential documents are not available for viewing, however
+a brief description is provided in the readme file. 
