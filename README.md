@@ -12,7 +12,7 @@ Developing a preliminary design for mounting the EOS and ANU Guide Star Lasers o
 | Brian Ma  	| TBD                   	|                                       |
 | Chris Leow  	| TBD                   	|                                       |
 | Paul Apelt  	| TBD                   	|Electronic/Mechatronic, MATLAB, Python |
-| Steve Lonergan| TBD                   	|                                       |
+| Steve Lonergan| TBD                   	|Electronic/Mechatronic, MATLAB, Project Management|
 | Wenjie Mu  	| TBD                   	|                                       |
 
 ## Contents
