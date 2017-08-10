@@ -6,14 +6,14 @@ Developing a preliminary design for mounting the EOS and ANU Guide Star Lasers o
 
 ## Team
 
-| Member Name  	| Role                     	| Skills                               	|
+| Member Name  	| Responsibilities          | Skills                               	|
 |--------------	|--------------------------	|--------------------------------------	|
-| Alex Dalton  	| TBD                   	|Mechanical/Materials Eng, CAD, Project management|
-| Brian Ma  	| TBD                   	|                                       |
-| Chris Leow  	| TBD                   	|Mechanical/Materials Eng, Fluid Mechanics & Heat Transfer, Project management, secretary experience, technical dawing|
-| Paul Apelt  	| TBD                   	|Electronic/Mechatronic, MATLAB, Python |
-| Steve Lonergan| TBD                   	|Electronic/Mechatronic, MATLAB, Project Management|
-| Wenjie Mu  	| TBD                   	|                                       |
+| Alex Dalton  	| Project Manager           |Mechanical/Materials Eng, CAD, Project management
+| Brian Ma  	| Environmental req's.      |Power electronics/system Eng, MATLAB, Python, embeded C, microprocessor, wirless communication               |
+| Chris Leow  	| Minutes, Mechanical int. |Mechanical/Materials Eng, Fluid Mechanics & Heat Transfer, Project management, secretary experience, technical dawing|
+| Paul Apelt  	| Project requirements, CAD      |Electronic/Mechatronic, MATLAB, Python |
+| Steve Lonergan| Point of Contact, vibration|Electronic/Mechatronic, MATLAB, Project Management|
+| Wenjie Mu  	| Lccessability analysis |                                       |
 
 ## Contents
 
