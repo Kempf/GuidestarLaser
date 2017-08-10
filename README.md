@@ -10,7 +10,7 @@ Developing a preliminary design for mounting the EOS and ANU Guide Star Lasers o
 |--------------	|--------------------------	|--------------------------------------	|
 | Alex Dalton  	| TBD                   	|Mechanical/Materials Eng, CAD, Project management|
 | Brian Ma  	| TBD                   	|                                       |
-| Chris Leow  	| TBD                   	|                                       |
+| Chris Leow  	| TBD                   	|Mechanical/Materials Eng, Fluid Mechanics & Heat Transfer, Project management, secretary experience, technical dawing|
 | Paul Apelt  	| TBD                   	|Electronic/Mechatronic, MATLAB, Python |
 | Steve Lonergan| TBD                   	|Electronic/Mechatronic, MATLAB, Project Management|
 | Wenjie Mu  	| TBD                   	|                                       |
