@@ -13,7 +13,7 @@ Developing a preliminary design for mounting the EOS and ANU Guide Star Lasers o
 | Chris Leow  	| Minutes, Mechanical int. |Mechanical/Materials Eng, Fluid Mechanics & Heat Transfer, Project management, secretary experience, technical dawing|
 | Paul Apelt  	| Project requirements, CAD      |Electronic/Mechatronic, MATLAB, Python |
 | Steve Lonergan| Point of Contact, vibration|Electronic/Mechatronic, MATLAB, Project Management|
-| Wenjie Mu  	| Lccessability analysis |                                       |
+| Wenjie Mu  	| Accessibility analysis |Mechatronics/Renewable Systems, MATLAB, Hardware Programming                                       |
 
 ## Contents
 
