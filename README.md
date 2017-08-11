@@ -14,6 +14,8 @@ Developing a preliminary design for mounting the EOS and ANU Guide Star Lasers o
 | Paul Apelt  	| Project requirements, CAD      |Electronic/Mechatronic, MATLAB, Python |
 | Steve Lonergan| Point of Contact, vibration|Electronic/Mechatronic, MATLAB, Project Management|
 | Wenjie Mu  	| Accessibility analysis |Mechatronics/Renewable Systems, MATLAB, Hardware Programming                                       |
+*"Responsibilities" are the areas for which the team member is the key source of knowledge.
+All team members will contribute to related project tasks as required.
 
 ## Contents
 
@@ -37,10 +39,10 @@ previous group's repository on this project, to be used as reference material
 for our continuation of their work. The readme file within this repository
 contains the contents and breakdown, in order to avoid oversaturating this file.
 
-6. Project Requirements: updated in tandem with the "Current Status" directory, 
-this contains the evolving project requirements in the main document, as well 
-as comments and other updates that do not fit into the "Current Status". 
-
-7. Project Artifacts: this directory contains techincal project documents and
+6. Project Artifacts: this directory contains techincal project documents and
 deliverables. Confidential documents are not available for viewing, however
 a brief description is provided in the readme file. 
+
+7. Project Requirements: updated in tandem with the "Current Status" directory, 
+this contains the evolving project requirements in the main document, as well 
+as comments and other updates that do not fit into the "Current Status".
