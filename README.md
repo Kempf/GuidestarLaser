@@ -19,30 +19,30 @@ All team members will contribute to related project tasks as required.
 
 ## Contents
 
-1. README (this file)
+* README (this file)
 
-2. Client Communications: contains all one-way communication with the client, 
+* Client Communications: contains all one-way communication with the client, 
 including emails and information provided. This does not include the transcripts
 of meetings held with the client present, which are instead in the 
 "Meeting Minutes".
 
-3. Current Status: contains key documents showing the current status of the
+* Current Status: contains key documents showing the current status of the
 project; the calendar shows key upcoming dates, while the currrent work 
 section contains a statement of the things that need to be done and areas of
 priority up until the next update. Periodically updated as work progresses.
 	
-4. Meeting Minutes: contains minutes for group meetings,
+* Meeting Minutes: contains minutes for group meetings,
 tutorials, and client meetings.
 
-5. Previous Team Work: this directory effectively contains the entirety of the
+* Previous Team Work: this directory effectively contains the entirety of the
 previous group's repository on this project, to be used as reference material
 for our continuation of their work. The readme file within this repository
 contains the contents and breakdown, in order to avoid oversaturating this file.
 
-6. Project Artifacts: this directory contains techincal project documents and
+* Project Artifacts: this directory contains techincal project documents and
 deliverables. Confidential documents are not available for viewing, however
 a brief description is provided in the readme file. 
 
-7. Project Requirements: updated in tandem with the "Current Status" directory, 
+* Project Requirements: updated in tandem with the "Current Status" directory, 
 this contains the evolving project requirements in the main document, as well 
 as comments and other updates that do not fit into the "Current Status".
