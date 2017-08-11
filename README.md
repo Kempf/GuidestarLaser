@@ -2,7 +2,7 @@
 
 Repository created on: 04/08/2017
 
-Developing a preliminary design for mounting the EOS and ANU Guide Star Lasers on the EOS 1.8m telescope at Mt. Stromlo.
+Developing a preliminary design for mounting the EOS and ANU SGL on the EOS 1.8m telescope at Mt. Stromlo.
 
 ## Team
 
