@@ -1,8 +1,8 @@
-##Current_Status:
+## Current_Status:
 
-##Directories:
+## Directories:
 
-##Files:
+## Files:
 
 *	`Current_Tasks.txt`:	Details the current tasks that the group is working on, as well as an indication of who is working on said tasks
 *	`Project_Schedule.xlsx`:	Outline of the semester dates, as well as key course deadlines. This will be updated to include milestones and additional deadlines
