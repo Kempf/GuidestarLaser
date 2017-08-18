@@ -1,12 +1,14 @@
-Meeting with James Webb
-
+Person: James Webb
+Date: 18 Aug 2017
 Topic: EOS Laser Requirements
 
-Main points:
+Discussion points:
+- EOS laser requirements
 
-Requirements document
-2.1.1 -> Number of breadboards is no longer certain
-2.1.8 -> One component is required to be placed within 2 metres, rest anywhere, size is likely to be smaller, could be split up into separate packages -> follow up
-2.5.4 -> Vibration number is still not certain
-2.5.5 -> Air quality is controlled by design of the GSL, no external systems for now, likely out of our scope -> follow up
-      -> Preventing moisture from forming on the EOS GSL
+Outcomes
+- Update to requirements
+ - 2.1.1 -> Number of breadboards is no longer certain
+ - 2.1.8 -> One component is required to be placed within 2 metres, rest anywhere, size is likely to be smaller, could be split up into separate packages -> follow up
+ - 2.5.4 -> Vibration number is still not certain
+ - 2.5.5 -> Air quality is controlled by design of the GSL, no external systems for now, likely out of our scope -> follow up
+ - (new) -> Preventing moisture from forming on the EOS GSL
