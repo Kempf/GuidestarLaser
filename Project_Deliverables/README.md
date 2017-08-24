@@ -1,4 +1,4 @@
-## Project_Artefacts
+## Project Deliverables
 This folder is the general folder for storage of files and work completed.
 
 ### Directories
