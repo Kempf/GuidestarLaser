@@ -2,6 +2,8 @@
 This folder is the general folder for storage of files and work completed.
 
 ### Directories
+*  `Audit_Feedback_Actions`: Actions and decisions made in response to client and shadow feedback.
+*  `Project_Background_Information`: Background files, papers and references.
 	
 
 ### Files
