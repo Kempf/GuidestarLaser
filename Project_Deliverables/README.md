@@ -5,6 +5,7 @@ This folder is the general folder for storage of files and work completed.
 *  `Audit_Feedback_Actions`: Actions and decisions made in response to client and shadow feedback.
 *  `Project_Background_Information`: Background files, papers and references.
 *	`Photos`: photos of the telescope space
+*	`Figures`: generic figures for reports, diagrams, etc.
 
 ### Files
 * `Work_Ethic_Agreement.docx`:	This file details the expectations that the group has for each group member, regarding weekly workload and work locations, as well as communications standards, and expectations in the event of absences.
