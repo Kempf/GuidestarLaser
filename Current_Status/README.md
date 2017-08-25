@@ -5,6 +5,7 @@
 ## Files:
 
 *	`Project_Schedule.xlsx`:	Outline of the semester dates, as well as key course deadlines. This will be updated to include milestones and additional deadlines
+*	`ProForma_Verxxx.pdf`:	Initial project document, giving project outline, status, and risks associated with it.
 *	`Work_Packages.pdf`:	A diagram that illustrates the work packages that the project has been currently split into
 *	`activity_log.xlsx`:	A log of all team-members activities indicating time spent on them per week
 *	`project_cencept_report.docx`:	A summary of the work completed in week 2,3 in preparation for the audit
