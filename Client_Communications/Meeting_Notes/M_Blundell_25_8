@@ -3,4 +3,13 @@ Date: 25 Aug 2017
 Topic: Mechanical deisgn documentation
 
 Discussion Points:
- - Mechanical documentation 
+ - Mechanical design documentation layout and requirements
+ - Each one of the following is a document in itself
+        - Concept Design Report (CoDR)
+        - Preliminary Design Report (PDR)
+        - Critical Design Review (CDR)
+        - Interface Control (ICD)
+ 
+ Outcomes:
+ - Look up online each types of the documentation listed above and their contents
+ - Can ask Mark again for documentation examples when he's not about to just go to lunch
