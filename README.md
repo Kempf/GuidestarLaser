@@ -39,10 +39,6 @@ previous group's repository on this project, to be used as reference material
 for our continuation of their work. The readme file within this repository
 contains the contents and breakdown, in order to avoid oversaturating this file.
 
-* Project Artifacts: this directory contains techincal project documents and
+* Project Deliverables: this directory contains techincal project documents, requirements and
 deliverables. Confidential documents are not available for viewing, however
 a brief description is provided in the readme file. 
-
-* Project Requirements: updated in tandem with the "Current Status" directory, 
-this contains the evolving project requirements in the main document, as well 
-as comments and other updates that do not fit into the "Current Status".
