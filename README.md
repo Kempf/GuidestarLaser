@@ -4,6 +4,8 @@ Repository created on: 04/08/2017
 
 Developing a preliminary design for mounting the EOS and ANU SGL on the EOS 1.8m telescope at Mt. Stromlo.
 
+![project diagram](http://i.imgur.com/0ppTVj8.png)
+
 ## Team
 
 | Member Name  	| Responsibilities          | Skills                               	|
