@@ -24,23 +24,23 @@ All team members will contribute to related project tasks as required.
 * README (this file)
 
 * Client Communications: contains all one-way communication with the client, 
-including emails and information provided. This does not include the transcripts
+including *emails* and *information provided*. This does not include the transcripts
 of meetings held with the client present, which are instead in the 
 "Meeting Minutes".
 
 * Current Status: contains key documents showing the current status of the
-project; the calendar shows key upcoming dates, while the currrent work 
+project; the *calendar* shows key upcoming dates, while the currrent work 
 section contains a statement of the things that need to be done and areas of
 priority up until the next update. Periodically updated as work progresses.
 	
-* Meeting Minutes: contains minutes for group meetings,
+* Meeting Minutes: contains *minutes* for group meetings,
 tutorials, and client meetings.
 
 * Previous Team Work: this directory effectively contains the entirety of the
-previous group's repository on this project, to be used as reference material
+*previous group's repository* on this project, to be used as reference material
 for our continuation of their work. The readme file within this repository
 contains the contents and breakdown, in order to avoid oversaturating this file.
 
-* Project Deliverables: this directory contains techincal project documents, requirements and
+* Project Deliverables: this directory contains *techincal project documents*, *requirements* and
 deliverables. Confidential documents are not available for viewing, however
 a brief description is provided in the readme file. 
