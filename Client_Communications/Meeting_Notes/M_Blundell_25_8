@@ -5,11 +5,24 @@ Topic: Mechanical deisgn documentation
 Discussion Points:
  - Mechanical design documentation layout and requirements
  - Each one of the following is a document in itself
-        - Concept Design Report (CoDR)
+        - Concept Design Review (CoDR)
         - Preliminary Design Report (PDR)
         - Critical Design Review (CDR)
         - Interface Control (ICD)
+- EOS CoDR examples were shown
+- EOS PDR examples were shown
+- Frame design and material
  
  Outcomes:
  - Look up online each types of the documentation listed above and their contents
  - Can ask Mark again for documentation examples when he's not about to just go to lunch
+ - EOS templates for CoDR + PDR can't be given due to CIC approval from Mark's boss (Francis)
+ - Ask Celine for ANU CoDR and PDR templates, also there are some online
+ - Include requirement/performance ranges in the PDR
+ - Approval of Carbon fibre for frame as it is modular and light (approx cost $6)
+ - Possibility to build to frames (i.e. 2 levels and 3 levels)
+ - Redesign the frame cause it was a CoD
+ - Diagonal members are overengineered and unnecessary, not sure if cleared for laser throughput or will interfere with laser light
+ - Two EOS printouts were given for design process documentation and risk documentation
+
+ 
