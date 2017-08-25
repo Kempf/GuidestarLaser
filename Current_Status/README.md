@@ -1,8 +1,9 @@
-## Current_Status:
+## Current_Status
+Scheduling, organisation, etc.
 
-## Directories:
+### Directories
 
-## Files:
+### Files
 
 *	`Project_Schedule.xlsx`:	Outline of the semester dates, as well as key course deadlines. This will be updated to include milestones and additional deadlines
 *	`ProForma_Verxxx.pdf`:	[Overleaf](https://www.overleaf.com/10595988ydvxrwtmksfk) Initial project document, giving project outline, status, and risks associated with it.
