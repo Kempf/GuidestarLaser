@@ -8,14 +8,14 @@ Developing a preliminary design for mounting the EOS and ANU SGL on the EOS 1.8m
 
 ## Team
 
-| Member Name  	| Responsibilities          | Skills                               	|
+| Member Name  	|   UID    | Responsibilities          | Skills                               	|
 |--------------	|--------------------------	|--------------------------------------	|
-| Alex Dalton  	| Project Manager           |Mechanical/Materials Eng, CAD, Project management
-| Brian Ma  	| Environmental req's.      |Power electronics/system Eng, MATLAB, Python, embeded C, microprocessor, wirless communication               |
-| Chris Leow  	| Minutes, Mechanical int. |Mechanical/Materials Eng, Fluid Mechanics & Heat Transfer, Project management, secretary experience, technical dawing|
-| Paul Apelt  	| Project requirements, CAD      |Electronic/Mechatronic, MATLAB, Python |
-| Steve Lonergan| Point of Contact, vibration|Electronic/Mechatronic, MATLAB, Project Management|
-| Wenjie Mu  	| Accessibility analysis |Mechatronics/Renewable Systems, MATLAB, Hardware Programming                                       |
+| Alex Dalton  	|  u5889439      | Project Manager           |Mechanical/Materials Eng, CAD, Project management
+| Brian Ma  	|  u5893274     | Environmental req's.      |Power electronics/system Eng, MATLAB, Python, embeded C, microprocessor, wirless communication               |
+| Chris Leow  	|  u5827718     | Minutes, Mechanical int. |Mechanical/Materials Eng, Fluid Mechanics & Heat Transfer, Project management, secretary experience, technical dawing|
+| Paul Apelt  	|  5568225      | Project requirements, CAD      |Electronic/Mechatronic, MATLAB, Python |
+| Steve Lonergan|  u5349877     | Point of Contact, vibration|Electronic/Mechatronic, MATLAB, Project Management|
+| Wenjie Mu  	|  u5354143     | Accessibility analysis |Mechatronics/Renewable Systems, MATLAB, Hardware Programming                                       |
 *"Responsibilities" are the areas for which the team member is the key source of knowledge.
 All team members will contribute to related project tasks as required.
 
