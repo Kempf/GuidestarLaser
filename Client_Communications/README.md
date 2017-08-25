@@ -6,4 +6,6 @@
 
 ### Files: 
 Contains additional files relating to client correspondence (This will potentially contain duplicates of minutes for client meetings)
+
+*   [Questions for AITC staff](https://docs.google.com/document/d/1zAk25DJ26Gl5TWY5K3axyuuhdbPYalDZMd1OXUz_-uc/edit?usp=sharing) (google doc)
 		
