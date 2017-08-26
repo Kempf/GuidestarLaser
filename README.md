@@ -42,3 +42,10 @@ contains the contents and breakdown, in order to avoid oversaturating this file.
 * `Project Deliverables`: this directory contains **techincal project documents**, **requirements** and
 deliverables. Confidential documents are not available for viewing, however
 a brief description is provided in the readme file. 
+
+## Auditors Infomation
+
+The readmes of the higher level folders will detail the contents of each folder. 
+These are intended to make for ease of access. To get an understanding of what the most relevant files are, 
+to save you time, go to: [Current Status Directory](https://gitlab.cecs.anu.edu.au/u5568225/GuidestarLaser/tree/master/Current_Status) 
+and read the **Weekly_And_Audit_Summaries.pdf** file.  This will guide you through where to go, what to look at, and what they are.
