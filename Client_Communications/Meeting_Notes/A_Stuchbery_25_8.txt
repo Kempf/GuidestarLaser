@@ -1,0 +1,11 @@
+Person(s): Alex Stuchbery
+Date: 25 Aug 2017
+Topic: Telescope Dome Internal Temperature 
+
+Discussion points
+- Maximum operating temperature requirement of lasers (maximum dome temperature) (Requirement 1.5.1)
+
+Outcomes
+- Report by A. Stuchbery 2015 measured the internal temperature, reaching a peak around 28C, from outside temperature of 36-38C
+- Previous team requirements listed a max of 28+/- 2C. Tolerance was added to account for the possibility of a greater external temperature occurring
+- Possibly increase to 30+/-2C if it is determined that the previous tolerance was not great enough
