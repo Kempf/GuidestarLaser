@@ -1,0 +1,53 @@
+[
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "<@U6GUPSJ2Y> chris' agenda has us placed at the worst time possible for Celine to turn up",
+        "ts": "1503646013.000177"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Yeah, should we ask him abiut that?",
+        "ts": "1503646646.000012"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "Ask him if we could swap?",
+        "ts": "1503646693.000191"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Yup",
+        "ts": "1503646706.000291"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "<@U6HEWMKC4> Did you happen to upload any CAD stills yesterday?",
+        "ts": "1503722973.000015"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Ah only the one i sent to paul, ill put it up soon ",
+        "ts": "1503723024.000038"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Alright, cheers.\nAlso, on gitlab, if you upload a plain textfile and name it, it's useful to add a .txt extension. Makes it easier to deal with when using desktop.",
+        "ts": "1503725208.000019",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6HEWMKC4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

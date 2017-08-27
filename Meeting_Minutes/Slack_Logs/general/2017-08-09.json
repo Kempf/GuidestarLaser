@@ -1,0 +1,58 @@
+[
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "I have thd tenplates. Will add them later today (after 1630)",
+        "thread_ts": "1502338813.360932",
+        "reply_count": 7,
+        "replies": [
+            {
+                "user": "U6HEWMKC4",
+                "ts": "1502347385.861295"
+            },
+            {
+                "user": "U6GHG87HB",
+                "ts": "1502350795.762205"
+            },
+            {
+                "user": "U6GHG87HB",
+                "ts": "1502350811.767234"
+            },
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1502361561.438040"
+            },
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1502361581.443772"
+            },
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1502361589.445733"
+            },
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1502365127.469968"
+            }
+        ],
+        "unread_count": 7,
+        "ts": "1502338813.360932",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U6HEWMKC4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "I uploaded the changes to make to the pro forma in the project artefacts folder",
+        "thread_ts": "1502338813.360932",
+        "parent_user_id": "U6GUPSJ2Y",
+        "ts": "1502347385.861295"
+    }
+]

@@ -14,6 +14,8 @@
             "last_name": "Dalton",
             "avatar_hash": "g447a3c7a586",
             "title": "",
+            "status_text": "Doing fine",
+            "status_emoji": ":squirrel:",
             "real_name": "Alex Dalton",
             "real_name_normalized": "Alex Dalton",
             "image_24": "https:\/\/secure.gravatar.com\/avatar\/447a3c7a5860881088cefc2fe3534e76.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0011-24.png",
@@ -31,7 +33,7 @@
         "is_restricted": false,
         "is_ultra_restricted": false,
         "is_bot": false,
-        "updated": 1501737377,
+        "updated": 1502431212,
         "is_app_user": false
     },
     {
@@ -123,6 +125,7 @@
             "first_name": "Paul",
             "last_name": "Apelt",
             "avatar_hash": "g60bfc8aa95f",
+            "status_emoji": "",
             "real_name": "Paul Apelt",
             "real_name_normalized": "Paul Apelt",
             "image_24": "https:\/\/secure.gravatar.com\/avatar\/60bfc8aa95f44ec30bceaf9abaa5dee7.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F0180%2Fimg%2Favatars%2Fava_0004-24.png",
@@ -140,7 +143,7 @@
         "is_restricted": false,
         "is_ultra_restricted": false,
         "is_bot": false,
-        "updated": 1501588595,
+        "updated": 1503725286,
         "is_app_user": false
     },
     {

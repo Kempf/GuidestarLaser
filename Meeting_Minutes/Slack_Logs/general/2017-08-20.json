@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U6GHG87HB|paul.apelt> uploaded a file: <https:\/\/guidestarlaser.slack.com\/files\/paul.apelt\/F6S8S4KFH\/img_20170821_132254.jpg|Shadows>",
+        "file": {
+            "id": "F6S8S4KFH",
+            "created": 1503285846,
+            "timestamp": 1503285846,
+            "name": "IMG_20170821_132254.jpg",
+            "title": "Shadows",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U6GHG87HB",
+            "editable": false,
+            "size": 2890580,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6S8S4KFH\/img_20170821_132254.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6S8S4KFH\/download\/img_20170821_132254.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F6S8S4KFH-b6522bbce0\/img_20170821_132254_64.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F6S8S4KFH-b6522bbce0\/img_20170821_132254_80.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F6S8S4KFH-b6522bbce0\/img_20170821_132254_360.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F6S8S4KFH-b6522bbce0\/img_20170821_132254_480.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F6S8S4KFH-b6522bbce0\/img_20170821_132254_160.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F6S8S4KFH-b6522bbce0\/img_20170821_132254_720.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F6S8S4KFH-b6522bbce0\/img_20170821_132254_800.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_800_w": 800,
+            "thumb_800_h": 600,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F6S8S4KFH-b6522bbce0\/img_20170821_132254_960.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F6S8S4KFH-b6522bbce0\/img_20170821_132254_1024.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "image_exif_rotation": 1,
+            "original_w": 4048,
+            "original_h": 3036,
+            "permalink": "https:\/\/guidestarlaser.slack.com\/files\/paul.apelt\/F6S8S4KFH\/img_20170821_132254.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T6GDL7K2N-F6S8S4KFH-c94ae83472",
+            "channels": [
+                "C6HACRXFY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "100",
+                    "users": [
+                        "U6GHG87HB"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        "user": "U6GHG87HB",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "paul.apelt",
+        "bot_id": null,
+        "ts": "1503285851.000072"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "u5351150 - independent auditoror",
+        "ts": "1503288608.000101"
+    }
+]

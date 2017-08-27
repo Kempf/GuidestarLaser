@@ -1,0 +1,30 @@
+[
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "what time was our meeting tomorrow?",
+        "ts": "1502669541.341546"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "<!channel> 5pm",
+        "ts": "1502678137.398735"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "1700",
+        "ts": "1502678442.439600",
+        "reactions": [
+            {
+                "name": "face_with_rolling_eyes",
+                "users": [
+                    "U6GHN174M",
+                    "U6GC3A740"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Meet at 12 tomorrow then?",
+        "thread_ts": "1502265187.843319",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6GHG87HB",
+                "ts": "1502265956.098868"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1502265187.843319"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "Sounds good ",
+        "ts": "1502265859.066971"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "Ok",
+        "thread_ts": "1502265187.843319",
+        "parent_user_id": "U6HEWMKC4",
+        "ts": "1502265956.098868"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Same place as last Friday?",
+        "ts": "1502319898.245232",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6HEWMKC4",
+                    "U6GC3A740"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "yeah works for me",
+        "ts": "1502320312.362287"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "hey guys sorry I'm going to be about 30 minutes late, I dropped my laptop bag and had to go back for it ",
+        "ts": "1502329818.541421"
+    }
+]

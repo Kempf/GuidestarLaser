@@ -1,0 +1,25 @@
+[
+    {
+        "type": "message",
+        "user": "U6GC3A740",
+        "text": "anybody want to be my witness?",
+        "thread_ts": "1502774782.000015",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1502776474.000070"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1502774782.000015"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Yeah, can do.  ",
+        "thread_ts": "1502774782.000015",
+        "parent_user_id": "U6GC3A740",
+        "ts": "1502776474.000070"
+    }
+]

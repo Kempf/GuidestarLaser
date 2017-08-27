@@ -1,0 +1,18 @@
+[
+    {
+        "text": "Stephen Patrick Lonergan pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/a8112a27f617c8f4a3467df91b19e230cb2f99d4...1d7c91678e4f05a09c5eef02618cbbef7e2bbed6|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/1d7c91678e4f05a09c5eef02618cbbef7e2bbed6|1d7c9167>: Summaries file update. Current_Status Directory cleaning.\n - StevePL",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/1d7c91678e4f05a09c5eef02618cbbef7e2bbed6|1d7c9167>: Summaries file update. Current_Status Directory cleaning.\n - StevePL",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503458848.000118"
+    }
+]

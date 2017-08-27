@@ -1,0 +1,51 @@
+[
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Update: Gerry is looking over the repo to see it makes sense. Will do tomorrow. I made the details file for the shadows. Will email them tomorrow.",
+        "ts": "1503745612.000028"
+    },
+    {
+        "type": "message",
+        "user": "U6GC3A740",
+        "text": "<@U6GHG87HB> <@U6GUPSJ2Y> do we need to present decision making? Cuz that's required in the audit report description. I've put some comments on the audit presentation Google doc ",
+        "thread_ts": "1503807568.000039",
+        "reply_count": 4,
+        "replies": [
+            {
+                "user": "U6GHG87HB",
+                "ts": "1503808175.000001"
+            },
+            {
+                "user": "U6GHG87HB",
+                "ts": "1503808204.000047"
+            },
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1503817503.000030"
+            },
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1503818853.000046"
+            }
+        ],
+        "unread_count": 4,
+        "ts": "1503807568.000039"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "covered in slide 4 (see presenter notes)",
+        "thread_ts": "1503807568.000039",
+        "parent_user_id": "U6GC3A740",
+        "ts": "1503808175.000001"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "but feel free to modify the presentation",
+        "thread_ts": "1503807568.000039",
+        "parent_user_id": "U6GC3A740",
+        "ts": "1503808204.000047"
+    }
+]

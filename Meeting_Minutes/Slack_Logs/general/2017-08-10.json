@@ -1,0 +1,231 @@
+[
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "<https:\/\/www.overleaf.com\/10595988ydvxrwtmksfk>",
+        "attachments": [
+            {
+                "title": " Overleaf",
+                "title_link": "https:\/\/www.overleaf.com\/10595988ydvxrwtmksfk",
+                "text": "The online platform for scientific writing. Overleaf is free: start writing now with one click. No sign-up required. Great on your iPad.",
+                "fallback": " Overleaf",
+                "image_url": "https:\/\/www.overleaf.com\/assets\/logos\/overleaf_og_logo.png",
+                "from_url": "https:\/\/www.overleaf.com\/10595988ydvxrwtmksfk",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 6147,
+                "service_icon": "https:\/\/www.overleaf.com\/favicon.ico",
+                "service_name": "overleaf.com",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1502338813.360932",
+        "parent_user_id": "U6GUPSJ2Y",
+        "ts": "1502350795.762205"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "some parts don't compile, still WIP",
+        "thread_ts": "1502338813.360932",
+        "parent_user_id": "U6GUPSJ2Y",
+        "ts": "1502350811.767234"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "So, why's it the ANU SGL? Is that the naming convention mentioned, or is it a typo?",
+        "thread_ts": "1502338813.360932",
+        "parent_user_id": "U6GUPSJ2Y",
+        "ts": "1502361561.438040"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Ahh",
+        "thread_ts": "1502338813.360932",
+        "parent_user_id": "U6GUPSJ2Y",
+        "ts": "1502361581.443772"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Right, Semiconductor yadayada",
+        "thread_ts": "1502338813.360932",
+        "parent_user_id": "U6GUPSJ2Y",
+        "ts": "1502361589.445733"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Alright, I've added a draft of the Project Pro Forma to git. It's quite basic, and we need to find out how we go about referencing the previous teams documents, but should suffice for tomorrow",
+        "thread_ts": "1502338813.360932",
+        "parent_user_id": "U6GUPSJ2Y",
+        "ts": "1502365127.469968"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Cya at 8:30 out the front of engineering  <@U6GC3A740> <@U6GHN174M> <@U6FQVARFA> ",
+        "ts": "1502401804.807457"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "I'm running across the campus now, I'll be there in 5 ",
+        "thread_ts": "1502404173.644682",
+        "reply_count": 9,
+        "replies": [
+            {
+                "user": "U6HEWMKC4",
+                "ts": "1502404198.652881"
+            },
+            {
+                "user": "U6FQVARFA",
+                "ts": "1502404319.691802"
+            },
+            {
+                "user": "U6HEWMKC4",
+                "ts": "1502404379.710469"
+            },
+            {
+                "user": "U6FQVARFA",
+                "ts": "1502404492.744170"
+            },
+            {
+                "user": "U6HEWMKC4",
+                "ts": "1502404559.765032"
+            },
+            {
+                "user": "U6FQVARFA",
+                "ts": "1502404605.779044"
+            },
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1502406017.200116"
+            },
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1502406045.208724"
+            },
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1502406056.212107"
+            }
+        ],
+        "unread_count": 9,
+        "ts": "1502404173.644682"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Where abouts? We can drive to you",
+        "thread_ts": "1502404173.644682",
+        "parent_user_id": "U6FQVARFA",
+        "ts": "1502404198.652881"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "I'm in front of the student exchange right now ",
+        "thread_ts": "1502404173.644682",
+        "parent_user_id": "U6FQVARFA",
+        "ts": "1502404319.691802"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Err i dont know where that is haha",
+        "thread_ts": "1502404173.644682",
+        "parent_user_id": "U6FQVARFA",
+        "ts": "1502404379.710469"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "The place you get your student card renewed ",
+        "thread_ts": "1502404173.644682",
+        "parent_user_id": "U6FQVARFA",
+        "ts": "1502404492.744170"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Go to melville hall",
+        "thread_ts": "1502404173.644682",
+        "parent_user_id": "U6FQVARFA",
+        "ts": "1502404559.765032"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "k",
+        "thread_ts": "1502404173.644682",
+        "parent_user_id": "U6FQVARFA",
+        "ts": "1502404605.779044"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "I'm just chilling, having a picnic",
+        "thread_ts": "1502404173.644682",
+        "parent_user_id": "U6FQVARFA",
+        "ts": "1502406017.200116"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Plenty of parking by that second placd with the telescope ruins",
+        "thread_ts": "1502404173.644682",
+        "parent_user_id": "U6FQVARFA",
+        "ts": "1502406045.208724"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Where we asked about parking bikes",
+        "thread_ts": "1502404173.644682",
+        "parent_user_id": "U6FQVARFA",
+        "ts": "1502406056.212107"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "So, what are you guys going through at the moment?",
+        "ts": "1502416163.299037"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "We're considering looking through the requirements",
+        "ts": "1502416175.300849"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Yeah sounds good. Just making a activity log spreadsheet",
+        "ts": "1502416198.304376"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "is the SSS doc on the drive the most recent doc? it seems incomplete",
+        "ts": "1502416234.310263"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "It's not, but it's all that was on their drive",
+        "edited": {
+            "user": "U6GUPSJ2Y",
+            "ts": "1502416939.000000"
+        },
+        "ts": "1502416930.422219"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "I added an activity log to record things we have done each week (activity_log.xlsx). Looks pretty gross - someone can make it pretty if they want",
+        "ts": "1502418211.614488"
+    }
+]

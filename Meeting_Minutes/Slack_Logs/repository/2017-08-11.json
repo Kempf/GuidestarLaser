@@ -1,0 +1,34 @@
+[
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/75c543a3ba526cfb6d067e8cca1d6c7328d8a65d...73a9dabb3ae44f87e8d8bdf44a851350abbc189c|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/73a9dabb3ae44f87e8d8bdf44a851350abbc189c|73a9dabb>: Upload new file - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/73a9dabb3ae44f87e8d8bdf44a851350abbc189c|73a9dabb>: Upload new file - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1502438108.949465"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/73a9dabb3ae44f87e8d8bdf44a851350abbc189c...b0c8acc011fd8a6b68d14821c9c375dd5de1645a|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/b0c8acc011fd8a6b68d14821c9c375dd5de1645a|b0c8acc0>: Replace activity_log.xlsx  - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/b0c8acc011fd8a6b68d14821c9c375dd5de1645a|b0c8acc0>: Replace activity_log.xlsx  - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1502438877.187972"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "text": "Brian Mizuhashi pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/6b95ccb1e0d8cf5e52878cb0bce3bc8eaba7af80...89e67299e453c64fd17f8caac3cd9878a0eefcea|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/89e67299e453c64fd17f8caac3cd9878a0eefcea|89e67299>: making decision making clear to our shadows - Brian Mizuhashi",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/89e67299e453c64fd17f8caac3cd9878a0eefcea|89e67299>: making decision making clear to our shadows - Brian Mizuhashi",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503812146.000026"
+    },
+    {
+        "text": "Brian Mizuhashi pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/89e67299e453c64fd17f8caac3cd9878a0eefcea...0b4b2e984f3810871fdaa5d88f17ca550b31f78a|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/0b4b2e984f3810871fdaa5d88f17ca550b31f78a|0b4b2e98>: Replace actionable_decision_making.pdf - Brian Mizuhashi",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/0b4b2e984f3810871fdaa5d88f17ca550b31f78a|0b4b2e98>: Replace actionable_decision_making.pdf - Brian Mizuhashi",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503816724.000001"
+    },
+    {
+        "text": "Brian Mizuhashi pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/0b4b2e984f3810871fdaa5d88f17ca550b31f78a...a0480f553efc42e2fc57971568a31d42128ea82b|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/a0480f553efc42e2fc57971568a31d42128ea82b|a0480f55>: Delete actionable_decision_making.pdf - Brian Mizuhashi",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/a0480f553efc42e2fc57971568a31d42128ea82b|a0480f55>: Delete actionable_decision_making.pdf - Brian Mizuhashi",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503816747.000013"
+    },
+    {
+        "text": "Brian Mizuhashi pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/a0480f553efc42e2fc57971568a31d42128ea82b...ccc01cb833daf4e6594846d50cb275be69993395|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/ccc01cb833daf4e6594846d50cb275be69993395|ccc01cb8>: Upload new file - Brian Mizuhashi",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/ccc01cb833daf4e6594846d50cb275be69993395|ccc01cb8>: Upload new file - Brian Mizuhashi",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503816766.000029"
+    }
+]

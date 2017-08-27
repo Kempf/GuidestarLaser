@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Evening all, (mainly Paul, Brian, Wenjie), wheb we went to the telescope, was it confirmed that that side hatch could be opened?",
+        "thread_ts": "1503563355.000221",
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "U6GHG87HB",
+                "ts": "1503563478.000183"
+            },
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1503563602.000275"
+            }
+        ],
+        "unread_count": 2,
+        "ts": "1503563355.000221"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "The guy said something like \"it looks like it can be, but I've never done it\"\n\nwe're talking about the ground floor one, right?",
+        "thread_ts": "1503563355.000221",
+        "parent_user_id": "U6GUPSJ2Y",
+        "ts": "1503563478.000183"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Yup. That one. You got measurements, yeah?",
+        "thread_ts": "1503563355.000221",
+        "parent_user_id": "U6GUPSJ2Y",
+        "ts": "1503563602.000275"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "We in AITC meeting room Chris if you make it",
+        "ts": "1503634396.000214"
+    }
+]

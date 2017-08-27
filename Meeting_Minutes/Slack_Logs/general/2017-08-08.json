@@ -1,0 +1,180 @@
+[
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "Okay so I talked to him and I think we confirmed that ",
+        "ts": "1502176393.654627"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "we're in the Monday 1 pm tutorial but only as shadows ",
+        "ts": "1502176422.662714"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "on Friday we're going to have our tutorial up at Stromlo ",
+        "ts": "1502176442.668360"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "also just for this week",
+        "ts": "1502176451.671021"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "we have to contact the Monday tutorial group that we're shadowing and do tag reports with them ",
+        "ts": "1502176470.676324"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "and Chris is coming up to stromlo on Friday to do our presentation this week ",
+        "ts": "1502176507.686547"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "everybody clear? ",
+        "thread_ts": "1502176517.689632",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6HEWMKC4",
+                "ts": "1502176982.819129"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1502176517.689632"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "and which monday tutorial group are we shadowing specifically? specifically? are we anticipating a group email from chris?",
+        "ts": "1502176768.758395"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "he said it's on the website",
+        "ts": "1502176790.764534"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "I haven't been able to check yet until I get home ",
+        "ts": "1502176804.768440"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Yep makes sense to me",
+        "thread_ts": "1502176517.689632",
+        "parent_user_id": "U6FQVARFA",
+        "ts": "1502176982.819129"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U6GC3A740|alphanovabrian> uploaded a file: <https:\/\/guidestarlaser.slack.com\/files\/alphanovabrian\/F6KDMA1H9\/image_uploaded_from_ios.jpg|ah, it's here>",
+        "file": {
+            "id": "F6KDMA1H9",
+            "created": 1502177806,
+            "timestamp": 1502177806,
+            "name": "Image uploaded from iOS.jpg",
+            "title": "ah, it's here",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U6GC3A740",
+            "editable": false,
+            "size": 11680622,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6KDMA1H9\/image_uploaded_from_ios.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6KDMA1H9\/download\/image_uploaded_from_ios.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F6KDMA1H9-a31f6c2825\/image_uploaded_from_ios_64.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F6KDMA1H9-a31f6c2825\/image_uploaded_from_ios_80.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F6KDMA1H9-a31f6c2825\/image_uploaded_from_ios_360.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F6KDMA1H9-a31f6c2825\/image_uploaded_from_ios_480.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F6KDMA1H9-a31f6c2825\/image_uploaded_from_ios_160.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F6KDMA1H9-a31f6c2825\/image_uploaded_from_ios_720.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F6KDMA1H9-a31f6c2825\/image_uploaded_from_ios_800.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_800_w": 800,
+            "thumb_800_h": 600,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F6KDMA1H9-a31f6c2825\/image_uploaded_from_ios_960.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F6KDMA1H9-a31f6c2825\/image_uploaded_from_ios_1024.jpg?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "image_exif_rotation": 1,
+            "original_w": 4032,
+            "original_h": 3024,
+            "permalink": "https:\/\/guidestarlaser.slack.com\/files\/alphanovabrian\/F6KDMA1H9\/image_uploaded_from_ios.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T6GDL7K2N-F6KDMA1H9-146bf21daa",
+            "channels": [
+                "C6HACRXFY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U6GC3A740",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "alphanovabrian",
+        "bot_id": null,
+        "upload_reply_to": "C4B7E091-3C0B-4A2A-A7E5-A263A715FD3B",
+        "ts": "1502177806.060007"
+    },
+    {
+        "type": "message",
+        "user": "U6GC3A740",
+        "text": "Bottom left corner of engn4221 wattle page there is a 'Participant' ",
+        "ts": "1502177930.095807"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "So, 3 of us shadowing one team, 3 another? Interesting",
+        "thread_ts": "1502185884.886796",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6GHG87HB",
+                "ts": "1502187062.289893"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1502185884.886796"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "welp I reviewed the wrong team",
+        "thread_ts": "1502185884.886796",
+        "parent_user_id": "U6GUPSJ2Y",
+        "ts": "1502187062.289893"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "I just added all of our shadows to the git as observers ",
+        "ts": "1502261231.672041"
+    }
+]

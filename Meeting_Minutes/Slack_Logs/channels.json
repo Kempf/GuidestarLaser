@@ -52,6 +52,32 @@
         }
     },
     {
+        "id": "C6LMSFCRX",
+        "name": "passwords-dont-upload",
+        "created": "1502431088",
+        "creator": "U6GUPSJ2Y",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U6FQVARFA",
+            "U6GC3A740",
+            "U6GHG87HB",
+            "U6GHN174M",
+            "U6GUPSJ2Y",
+            "U6HEWMKC4"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "For passwords and important information. Don't upload logs.",
+            "creator": "U6GHG87HB",
+            "last_set": "1502431284"
+        }
+    },
+    {
         "id": "C6HGG5M71",
         "name": "random",
         "created": "1501588595",

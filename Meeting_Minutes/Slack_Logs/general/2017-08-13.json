@@ -1,0 +1,187 @@
+[
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Okay, we're all good with accessing the files",
+        "ts": "1502669466.597956"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U6GHN174M|chris> uploaded a file: <https:\/\/guidestarlaser.slack.com\/files\/chris\/F6N404ASY\/confidentiality_deed_and_ip_assignment_v6_2017s2.doc|Confidentiality Deed and IP Assignment_V6_2017S2.doc> and commented: This is the NDA with the new Annexture that Celine just approved this morning",
+        "file": {
+            "id": "F6N404ASY",
+            "created": 1502678434,
+            "timestamp": 1502678434,
+            "name": "Confidentiality Deed and IP Assignment_V6_2017S2.doc",
+            "title": "Confidentiality Deed and IP Assignment_V6_2017S2.doc",
+            "mimetype": "application\/msword",
+            "filetype": "doc",
+            "pretty_type": "Word Document",
+            "user": "U6GHN174M",
+            "editable": false,
+            "size": 60928,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6N404ASY\/confidentiality_deed_and_ip_assignment_v6_2017s2.doc?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6N404ASY\/download\/confidentiality_deed_and_ip_assignment_v6_2017s2.doc?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "permalink": "https:\/\/guidestarlaser.slack.com\/files\/chris\/F6N404ASY\/confidentiality_deed_and_ip_assignment_v6_2017s2.doc",
+            "permalink_public": "https:\/\/slack-files.com\/T6GDL7K2N-F6N404ASY-948ad7f708",
+            "channels": [
+                "C6HACRXFY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc6MCGEDCY",
+                "created": 1502678434,
+                "timestamp": 1502678434,
+                "user": "U6GHN174M",
+                "is_intro": true,
+                "comment": "This is the NDA with the new Annexture that Celine just approved this morning"
+            }
+        },
+        "user": "U6GHN174M",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "chris",
+        "bot_id": null,
+        "ts": "1502678434.675170"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "<!everyone> is anyone going to the tutorial today from 1-3? Chris never got back to us on the information regarding what hour our shadow group is having it's meeting",
+        "ts": "1502678855.730191"
+    },
+    {
+        "type": "message",
+        "user": "U6GC3A740",
+        "text": "I'm at R221, the loudspeaker vibration team which is I'm supposed to shadow is here",
+        "ts": "1502679815.858525"
+    },
+    {
+        "type": "message",
+        "user": "U6GC3A740",
+        "text": "Eh, anyone wanna come here? We are supposed to meet now ",
+        "ts": "1502680448.942244"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "<@U6GUPSJ2Y> did you manage to get a soft copy of the SSS v4 file?",
+        "ts": "1502681396.065158"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "It should be on that USB.\n\nUh, is the Desal team on now?",
+        "ts": "1502681449.073059"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "not yet I think they are going to have their meeting in the next hour",
+        "ts": "1502681482.077525"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Which room?",
+        "ts": "1502681536.084520"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "And yeah, that file should have come from Elliott, I think?",
+        "ts": "1502681552.086707"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "Ian Ross Seminar Room",
+        "ts": "1502681569.088847"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "<@U6GUPSJ2Y> update: desal are having their meeting now",
+        "ts": "1502681619.095375"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "They still going?",
+        "ts": "1502681897.130258"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "Yeah",
+        "ts": "1502681910.131765"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Goos",
+        "ts": "1502681923.133272"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Good*",
+        "ts": "1502681932.134332"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "ok so the point of those tutorials are that they are informal so that we know what our shadow teams are doing and for them to know what we are doing. Our official tutor is still Gerard, but the tutorial tutor said that he doesn't mind if we do our meeting in the first hour or second hour of the tute. So if we do it in the first hour and keep it brief then have our shadow teams go right afterwards than we should be able to get out of the tute in maybe an hour",
+        "thread_ts": "1502685932.666635",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1502689538.140958"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1502685932.666635"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Sounds good.\nI'm all for the first hour.",
+        "thread_ts": "1502685932.666635",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1502689538.140958"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "So, we have our feedback\nA few key points:\n- Some shadows got really confused. Half the comments appear to oppose the other half. \"Have met ofter and done very well at that\" vs \"Need to meet more!\" I feel like we're going fine with communication at the moment. \n- The reposity in general is overloaded. I think there's agreement on that. To solve that, we need to merge files together that are very similar, and delete those useless ones - Also, we should have a README for every folder detailing what the files actually are. I'll do that when I get home if nobody else has by then.\n- Summary of the weeks meetings \/ achievements would be useful.\n- Making milestones would also be useful\n- Possibly top level of the git, we could add a short project summary, because some people seem confused about what it is we're doing and so assume we have no idea. Simple to fix.\n\nThese would be a few additional things to discuss tomorrow at the meeting.",
+        "thread_ts": "1502690052.213222",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1502690878.343684"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1502690052.213222"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Also, a project contribution with tasks done would be useful by the sounds of it. Then we can show contribution, etc. As well as what was actually done or worked on.",
+        "thread_ts": "1502690052.213222",
+        "parent_user_id": "U6GUPSJ2Y",
+        "ts": "1502690878.343684"
+    }
+]

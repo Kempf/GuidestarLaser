@@ -1,0 +1,203 @@
+[
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "Should we meet up on Thursday, or tomorrow so that we have idea of what we are going to present on Friday?",
+        "thread_ts": "1502186874.038182",
+        "reply_count": 6,
+        "replies": [
+            {
+                "user": "U6GHG87HB",
+                "ts": "1502187174.136113"
+            },
+            {
+                "user": "U6GHN174M",
+                "ts": "1502187224.152355"
+            },
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1502194167.313179"
+            },
+            {
+                "user": "U6HEWMKC4",
+                "ts": "1502232414.342955"
+            },
+            {
+                "user": "U6GHN174M",
+                "ts": "1502239424.181051"
+            },
+            {
+                "user": "U6FQVARFA",
+                "ts": "1502247743.837210"
+            }
+        ],
+        "unread_count": 6,
+        "ts": "1502186874.038182"
+    },
+    {
+        "type": "message",
+        "user": "U6GC3A740",
+        "text": "I will be free anytime",
+        "ts": "1502187005.081409"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "sounds like a good idea.\n\nI'm free all day wednesday and thursday before 1300 (or 1500 if really need to)",
+        "thread_ts": "1502186874.038182",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1502187174.136113"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "I'm also free all day Wednesday and Thursday so if there is anyone else that has a really tight schedule that they need to rework we can work around theirs?",
+        "thread_ts": "1502186874.038182",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1502187224.152355"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "I'm busy from 1500* wednesday, and 1500 thursday, but any time before is good",
+        "edited": {
+            "user": "U6GUPSJ2Y",
+            "ts": "1502195645.000000"
+        },
+        "thread_ts": "1502186874.038182",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1502194167.313179"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Im free after 10 today and all day tomorrow ",
+        "thread_ts": "1502186874.038182",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1502232414.342955"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "<@U6FQVARFA>?",
+        "thread_ts": "1502186874.038182",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1502239424.181051"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "\/poll \"Meeting Time for Friday Presentation\" \"Wednesday 9am-12pm\" \"Wednesday 12pm-3pm\" \"Thursday 9am-12pm\" \"Thursday 12pm-3pm\"",
+        "ts": "1502246647.639364"
+    },
+    {
+        "text": "",
+        "bot_id": "B6KBZCYRE",
+        "attachments": [
+            {
+                "fallback": "Open Slack to cast your vote in this Simple Poll",
+                "title": "Meeting Time for Friday Presentation",
+                "id": 1,
+                "color": "6ecadc",
+                "fields": [
+                    {
+                        "title": "",
+                        "value": ":one: Wednesday 9am-12pm\n\n\n",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":two: Wednesday 12pm-3pm    `1`\nalphanovabrian\n\n",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":three: Thursday 9am-12pm    `3`\nalphanovabrian, adalton, chris\n\n",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":four: Thursday 12pm-3pm    `4`\nalphanovabrian, adalton, chris, wenjie_\n\n",
+                        "short": false
+                    }
+                ],
+                "mrkdwn_in": [
+                    "fields"
+                ]
+            },
+            {
+                "callback_id": "6531bf96-b38f-4cb7-a453-7d106259cae5",
+                "fallback": "Open Slack to cast your vote in this Simple Poll",
+                "id": 2,
+                "color": "6ecadc",
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "vote",
+                        "text": ":one:",
+                        "type": "button",
+                        "value": "1",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "vote",
+                        "text": ":two:",
+                        "type": "button",
+                        "value": "2",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "vote",
+                        "text": ":three:",
+                        "type": "button",
+                        "value": "3",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "vote",
+                        "text": ":four:",
+                        "type": "button",
+                        "value": "4",
+                        "style": ""
+                    },
+                    {
+                        "id": "5",
+                        "name": "delete-v2",
+                        "text": "Delete Poll",
+                        "type": "button",
+                        "value": "",
+                        "style": "danger",
+                        "confirm": {
+                            "text": "Are you sure you want to delete the Poll?",
+                            "title": "Delete Poll?",
+                            "ok_text": "Yes",
+                            "dismiss_text": "No"
+                        }
+                    }
+                ]
+            },
+            {
+                "callback_id": "6531bf96-b38f-4cb7-a453-7d106259cae5",
+                "fallback": "Open Slack to cast your vote in this Simple Poll",
+                "footer": "Simple Poll        <https:\/\/simplepoll.rocks\/dashboard\/guidestarlaser\/settings\/|Edit Settings>",
+                "id": 3,
+                "footer_icon": "https:\/\/simplepoll.rocks\/static\/main\/favicon.png",
+                "color": "6ecadc"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1502246647.639434"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "I can do any time today until 5pm now, or tomorrow until 5pm as well ",
+        "thread_ts": "1502186874.038182",
+        "parent_user_id": "U6GHN174M",
+        "ts": "1502247743.837210"
+    }
+]

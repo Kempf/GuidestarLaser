@@ -1,0 +1,66 @@
+[
+    {
+        "text": "Stephen Patrick Lonergan pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/b0c8acc011fd8a6b68d14821c9c375dd5de1645a...b8678af737aafc0476ef4e44d3975b7fbc689774|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/b8678af737aafc0476ef4e44d3975b7fbc689774|b8678af7>: Added Readmes, reshuffled a couple of files, and added a differentt template for activities and hours (previous groups)\n - StevePL",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/b8678af737aafc0476ef4e44d3975b7fbc689774|b8678af7>: Added Readmes, reshuffled a couple of files, and added a differentt template for activities and hours (previous groups)\n - StevePL",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1502703337.995503"
+    },
+    {
+        "text": "Brian Mizuhashi pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/b8678af737aafc0476ef4e44d3975b7fbc689774...90727903ffa32989987c6de3c9b6baeee3ae2c8c|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/90727903ffa32989987c6de3c9b6baeee3ae2c8c|90727903>: Delete project_concept_report.docx - Brian Mizuhashi",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/90727903ffa32989987c6de3c9b6baeee3ae2c8c|90727903>: Delete project_concept_report.docx - Brian Mizuhashi",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1502774716.000020"
+    },
+    {
+        "text": "Stephen Patrick Lonergan pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/90727903ffa32989987c6de3c9b6baeee3ae2c8c...9d16267cb9a569adc067c06e1fa8be9813f532db|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/9053df0363a800e7c9401d6cfd0a3123bf2f59e1|9053df03>: Commit attempt 2\n - StevePL\n\n<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/9d16267cb9a569adc067c06e1fa8be9813f532db|9d16267c>: Merge branch 'master' of <http:\/\/gitlab.cecs.anu.edu.au:u5568225\/GuidestarLaser|gitlab.cecs.anu.edu.au:u5568225\/GuidestarLaser>\n - StevePL",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/9053df0363a800e7c9401d6cfd0a3123bf2f59e1|9053df03>: Commit attempt 2\n - StevePL\n\n<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/9d16267cb9a569adc067c06e1fa8be9813f532db|9d16267c>: Merge branch 'master' of <http:\/\/gitlab.cecs.anu.edu.au:u5568225\/GuidestarLaser|gitlab.cecs.anu.edu.au:u5568225\/GuidestarLaser>\n - StevePL",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1502777046.000003"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/9d16267cb9a569adc067c06e1fa8be9813f532db...ef01086fc8d6157d9941d4b5e3a986d94220bb9c|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/ef01086fc8d6157d9941d4b5e3a986d94220bb9c|ef01086f>: Removed recursive subproject\n - Paul Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/ef01086fc8d6157d9941d4b5e3a986d94220bb9c|ef01086f>: Removed recursive subproject\n - Paul Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1502777695.000002"
+    }
+]

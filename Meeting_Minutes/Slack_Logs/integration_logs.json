@@ -1,5 +1,14 @@
 [
     {
+        "user_id": "U6GHN174M",
+        "user_name": "chris",
+        "date": "1502246479",
+        "change_type": "added",
+        "app_type": "Simple Poll",
+        "app_id": "A0HFW7MR6",
+        "scope": "identify,commands,chat:write:bot,reactions:write"
+    },
+    {
         "user_id": "U6GHG87HB",
         "user_name": "paul.apelt",
         "date": "1501924974",

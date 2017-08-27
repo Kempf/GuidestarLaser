@@ -1,0 +1,840 @@
+[
+    {
+        "text": "Stephen Patrick Lonergan pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/1d7c91678e4f05a09c5eef02618cbbef7e2bbed6...ba2e12c175f66e7848ba89f4db56cb22ccd1d0b5|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/ba2e12c175f66e7848ba89f4db56cb22ccd1d0b5|ba2e12c1>: Update README.md - Stephen Patrick Lonergan",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/ba2e12c175f66e7848ba89f4db56cb22ccd1d0b5|ba2e12c1>: Update README.md - Stephen Patrick Lonergan",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503569625.000037"
+    },
+    {
+        "text": "Wen Jie  Mu pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/ba2e12c175f66e7848ba89f4db56cb22ccd1d0b5...9161c2cb9c347ce226f7420910fc8d928a2fdd84|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/9161c2cb9c347ce226f7420910fc8d928a2fdd84|9161c2cb>: Upload new file - Wen Jie  Mu",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/9161c2cb9c347ce226f7420910fc8d928a2fdd84|9161c2cb>: Upload new file - Wen Jie  Mu",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503616299.000113"
+    },
+    {
+        "text": "Wen Jie  Mu pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/9161c2cb9c347ce226f7420910fc8d928a2fdd84...d3dd61e490b3cda57d1cba62791c5d241725329d|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/d3dd61e490b3cda57d1cba62791c5d241725329d|d3dd61e4>: Delete Project_Status - Wen Jie  Mu",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/d3dd61e490b3cda57d1cba62791c5d241725329d|d3dd61e4>: Delete Project_Status - Wen Jie  Mu",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503616481.000186"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/d3dd61e490b3cda57d1cba62791c5d241725329d...ec7ca1cd705cdc0b54e306ed20dd07241851ebb4|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/ec7ca1cd705cdc0b54e306ed20dd07241851ebb4|ec7ca1cd>: Fixed naming issues\n - Paul Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/ec7ca1cd705cdc0b54e306ed20dd07241851ebb4|ec7ca1cd>: Fixed naming issues\n - Paul Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503616686.000169"
+    },
+    {
+        "text": "Wen Jie  Mu pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/ec7ca1cd705cdc0b54e306ed20dd07241851ebb4...116dbf8b61ddbb91aaf195ddc1d6f6a147078885|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/116dbf8b61ddbb91aaf195ddc1d6f6a147078885|116dbf8b>: Update README.md - Wen Jie  Mu",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/116dbf8b61ddbb91aaf195ddc1d6f6a147078885|116dbf8b>: Update README.md - Wen Jie  Mu",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503616725.000066"
+    },
+    {
+        "text": "Wen Jie  Mu pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/116dbf8b61ddbb91aaf195ddc1d6f6a147078885...8bd6da01127f1cce9507a39b90f9ac32ab45d028|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/8bd6da01127f1cce9507a39b90f9ac32ab45d028|8bd6da01>: Update README.md - Wen Jie  Mu",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/8bd6da01127f1cce9507a39b90f9ac32ab45d028|8bd6da01>: Update README.md - Wen Jie  Mu",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503616763.000235"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/8bd6da01127f1cce9507a39b90f9ac32ab45d028...6ecf32bab909ca63331b88475e96e32c9d475601|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/6ecf32bab909ca63331b88475e96e32c9d475601|6ecf32ba>: Fixed Project Artefact ReadMe formatting - Paul  Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/6ecf32bab909ca63331b88475e96e32c9d475601|6ecf32ba>: Fixed Project Artefact ReadMe formatting - Paul  Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503617515.000080"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/6ecf32bab909ca63331b88475e96e32c9d475601...5b70e96b568bbfab56f3bffd18b3ca8194688e30|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/5b70e96b568bbfab56f3bffd18b3ca8194688e30|5b70e96b>: Added overleaf link for proforma - Paul  Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/5b70e96b568bbfab56f3bffd18b3ca8194688e30|5b70e96b>: Added overleaf link for proforma - Paul  Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503617586.000262"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/5b70e96b568bbfab56f3bffd18b3ca8194688e30...f2d424c03f1c4007c89c1da8d5a7b63a35b35722|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/f2d424c03f1c4007c89c1da8d5a7b63a35b35722|f2d424c0>: Added directory information to README - Paul  Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/f2d424c03f1c4007c89c1da8d5a7b63a35b35722|f2d424c0>: Added directory information to README - Paul  Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503617766.000157"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/f2d424c03f1c4007c89c1da8d5a7b63a35b35722...da4ed1f5b018b43ba8f8785defd635093632f67a|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/da4ed1f5b018b43ba8f8785defd635093632f67a|da4ed1f5>: Merged Artefacts and Requirements\n - Paul Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/da4ed1f5b018b43ba8f8785defd635093632f67a|da4ed1f5>: Merged Artefacts and Requirements\n - Paul Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503618978.000038"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/da4ed1f5b018b43ba8f8785defd635093632f67a...936784bbeacc113d2d67809bf02b961e71d6e62b|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/936784bbeacc113d2d67809bf02b961e71d6e62b|936784bb>: Update README.md - Paul  Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/936784bbeacc113d2d67809bf02b961e71d6e62b|936784bb>: Update README.md - Paul  Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503619038.000169"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/936784bbeacc113d2d67809bf02b961e71d6e62b...25280f4f82437f105b311879c65b6470cb6b9029|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/25280f4f82437f105b311879c65b6470cb6b9029|25280f4f>: Updated to reflect folder merge - Paul  Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/25280f4f82437f105b311879c65b6470cb6b9029|25280f4f>: Updated to reflect folder merge - Paul  Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503619245.000312"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/25280f4f82437f105b311879c65b6470cb6b9029...ea03eea4dda49336fed003eb9b76e63b48b9d759|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/ea03eea4dda49336fed003eb9b76e63b48b9d759|ea03eea4>: tutor minute for 25 of Aug docx and pdf\n - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/ea03eea4dda49336fed003eb9b76e63b48b9d759|ea03eea4>: tutor minute for 25 of Aug docx and pdf\n - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503619872.000067"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/ea03eea4dda49336fed003eb9b76e63b48b9d759...64e5cf4bb98d5d4a7937418700c1bdbc2ab1de46|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/64e5cf4bb98d5d4a7937418700c1bdbc2ab1de46|64e5cf4b>: Upload new file - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/64e5cf4bb98d5d4a7937418700c1bdbc2ab1de46|64e5cf4b>: Upload new file - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503619906.000081"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/64e5cf4bb98d5d4a7937418700c1bdbc2ab1de46...ed0b9a1a6822e2df77179c909ad4487e19f59f4d|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/ed0b9a1a6822e2df77179c909ad4487e19f59f4d|ed0b9a1a>: Aug 18 minutes .pdf - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/ed0b9a1a6822e2df77179c909ad4487e19f59f4d|ed0b9a1a>: Aug 18 minutes .pdf - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503620315.000129"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/ed0b9a1a6822e2df77179c909ad4487e19f59f4d...96fc3d791555e31288d84e45c44080ff327dddde|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/96fc3d791555e31288d84e45c44080ff327dddde|96fc3d79>: Aug 11 minutes .pdf - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/96fc3d791555e31288d84e45c44080ff327dddde|96fc3d79>: Aug 11 minutes .pdf - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503620382.000105"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/96fc3d791555e31288d84e45c44080ff327dddde...0cadaf4d393a64698ba7b740644c0515f04f0093|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/0cadaf4d393a64698ba7b740644c0515f04f0093|0cadaf4d>: aug 4 tutor minutes .pdf - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/0cadaf4d393a64698ba7b740644c0515f04f0093|0cadaf4d>: aug 4 tutor minutes .pdf - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503620501.000009"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/0cadaf4d393a64698ba7b740644c0515f04f0093...bb4cc26cd0a1ce5dfdef90ce0d92516bae167473|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/bb4cc26cd0a1ce5dfdef90ce0d92516bae167473|bb4cc26c>: Delete Aug_18_Tutor_Update.docx - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/bb4cc26cd0a1ce5dfdef90ce0d92516bae167473|bb4cc26c>: Delete Aug_18_Tutor_Update.docx - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503620701.000203"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/bb4cc26cd0a1ce5dfdef90ce0d92516bae167473...1df7bb704087be45e58f2f226c6bec19720bfd9a|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/1df7bb704087be45e58f2f226c6bec19720bfd9a|1df7bb70>: Upload new file - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/1df7bb704087be45e58f2f226c6bec19720bfd9a|1df7bb70>: Upload new file - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503620775.000169"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/1df7bb704087be45e58f2f226c6bec19720bfd9a...1921cca687e96720b91ae2bcf20a381267439617|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/1921cca687e96720b91ae2bcf20a381267439617|1921cca6>: Upload new file - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/1921cca687e96720b91ae2bcf20a381267439617|1921cca6>: Upload new file - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503620838.000126"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/1921cca687e96720b91ae2bcf20a381267439617...19f3780ef18aa90b57681a7e04d8de0d99b7b77b|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/19f3780ef18aa90b57681a7e04d8de0d99b7b77b|19f3780e>: Upload new file - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/19f3780ef18aa90b57681a7e04d8de0d99b7b77b|19f3780e>: Upload new file - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503620855.000121"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/19f3780ef18aa90b57681a7e04d8de0d99b7b77b...6f7b2892c6ff6ab4ce25caa0aa4a3443fd940f4d|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/6f7b2892c6ff6ab4ce25caa0aa4a3443fd940f4d|6f7b2892>: Delete Aug_15_Meeting_Agenda - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/6f7b2892c6ff6ab4ce25caa0aa4a3443fd940f4d|6f7b2892>: Delete Aug_15_Meeting_Agenda - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503620994.000186"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/6f7b2892c6ff6ab4ce25caa0aa4a3443fd940f4d...4aece7a2b744ba9cc56e9532ca7521e3c020d7d2|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/4aece7a2b744ba9cc56e9532ca7521e3c020d7d2|4aece7a2>: Upload new file - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/4aece7a2b744ba9cc56e9532ca7521e3c020d7d2|4aece7a2>: Upload new file - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503621224.000045"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/4aece7a2b744ba9cc56e9532ca7521e3c020d7d2...fd3f8028fbde5dd3714482e74bfa9328be40c4f9|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/fd3f8028fbde5dd3714482e74bfa9328be40c4f9|fd3f8028>: Upload new file - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/fd3f8028fbde5dd3714482e74bfa9328be40c4f9|fd3f8028>: Upload new file - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503621245.000167"
+    },
+    {
+        "text": "Stephen Patrick Lonergan pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/fd3f8028fbde5dd3714482e74bfa9328be40c4f9...bd1c2466bcf348c35f0bbf27f340712f59e4ff59|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/bd1c2466bcf348c35f0bbf27f340712f59e4ff59|bd1c2466>: Update README.md - Stephen Patrick Lonergan",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/bd1c2466bcf348c35f0bbf27f340712f59e4ff59|bd1c2466>: Update README.md - Stephen Patrick Lonergan",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503621263.000146"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/bd1c2466bcf348c35f0bbf27f340712f59e4ff59...53053b2600691e3e0df5f2dce6bc445d9c1c3259|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/53053b2600691e3e0df5f2dce6bc445d9c1c3259|53053b26>: Upload new file - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/53053b2600691e3e0df5f2dce6bc445d9c1c3259|53053b26>: Upload new file - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503621310.000117"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/53053b2600691e3e0df5f2dce6bc445d9c1c3259...d7002c0f235d5abd9fb4d2f15aa1ca25ce7d8b92|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/d7002c0f235d5abd9fb4d2f15aa1ca25ce7d8b92|d7002c0f>: Upload new file - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/d7002c0f235d5abd9fb4d2f15aa1ca25ce7d8b92|d7002c0f>: Upload new file - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503621327.000023"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/d7002c0f235d5abd9fb4d2f15aa1ca25ce7d8b92...4a65c1ded7b14aaac73365bd5d8bb1fae0bf7db3|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/4a65c1ded7b14aaac73365bd5d8bb1fae0bf7db3|4a65c1de>: Upload new file - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/4a65c1ded7b14aaac73365bd5d8bb1fae0bf7db3|4a65c1de>: Upload new file - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503621344.000144"
+    },
+    {
+        "text": "Stephen Patrick Lonergan pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/4a65c1ded7b14aaac73365bd5d8bb1fae0bf7db3...878ecef73a35b9e31d7312a34765562ceada7b5e|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/878ecef73a35b9e31d7312a34765562ceada7b5e|878ecef7>: Update README.md - Stephen Patrick Lonergan",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/878ecef73a35b9e31d7312a34765562ceada7b5e|878ecef7>: Update README.md - Stephen Patrick Lonergan",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503621385.000165"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/878ecef73a35b9e31d7312a34765562ceada7b5e...e84e79c279d1a7e0209f1682473123c51ad42174|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/0ea6a060a72cb98b985125eaeaf1eca5b25df95e|0ea6a060>: Added gitignore\n - Paul Apelt\n\n<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/24fde4769fd179a56b1eb4f1d0fe4271618edd61|24fde476>: Added figures\n - Paul Apelt\n\n<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/e84e79c279d1a7e0209f1682473123c51ad42174|e84e79c2>: Merge branch 'master' of <http:\/\/gitlab.cecs.anu.edu.au:u5568225\/GuidestarLaser|gitlab.cecs.anu.edu.au:u5568225\/GuidestarLaser>\n\nAdded figures folder and gitignore\n - Paul Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/0ea6a060a72cb98b985125eaeaf1eca5b25df95e|0ea6a060>: Added gitignore\n - Paul Apelt\n\n<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/24fde4769fd179a56b1eb4f1d0fe4271618edd61|24fde476>: Added figures\n - Paul Apelt\n\n<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/e84e79c279d1a7e0209f1682473123c51ad42174|e84e79c2>: Merge branch 'master' of <http:\/\/gitlab.cecs.anu.edu.au:u5568225\/GuidestarLaser|gitlab.cecs.anu.edu.au:u5568225\/GuidestarLaser>\n\nAdded figures folder and gitignore\n - Paul Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503621531.000190"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/e84e79c279d1a7e0209f1682473123c51ad42174...7cc1d60a0273a552f56eaaa852832bd1884fb886|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/7cc1d60a0273a552f56eaaa852832bd1884fb886|7cc1d60a>: Update README.md - Paul  Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/7cc1d60a0273a552f56eaaa852832bd1884fb886|7cc1d60a>: Update README.md - Paul  Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503622005.000108"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/7cc1d60a0273a552f56eaaa852832bd1884fb886...5961e53db010093c4ffbdbf21dd221a167763a97|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/5961e53db010093c4ffbdbf21dd221a167763a97|5961e53d>: Fixed Steve's formatting. Again. - Paul  Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/5961e53db010093c4ffbdbf21dd221a167763a97|5961e53d>: Fixed Steve's formatting. Again. - Paul  Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503623073.000084"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/5961e53db010093c4ffbdbf21dd221a167763a97...2580cf8fa29df937b1a33d66adf4619b268cf126|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/2580cf8fa29df937b1a33d66adf4619b268cf126|2580cf8f>: Update README.md - Paul  Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/2580cf8fa29df937b1a33d66adf4619b268cf126|2580cf8f>: Update README.md - Paul  Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503623091.000193"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/2580cf8fa29df937b1a33d66adf4619b268cf126...c58a6469551804f16e5d6aa1722d32d9d5280146|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/c58a6469551804f16e5d6aa1722d32d9d5280146|c58a6469>: Update README.md - Paul  Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/c58a6469551804f16e5d6aa1722d32d9d5280146|c58a6469>: Update README.md - Paul  Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503623168.000120"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/c58a6469551804f16e5d6aa1722d32d9d5280146...1f247e95e78428a63ead9903bddfce9b2a252a66|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/1f247e95e78428a63ead9903bddfce9b2a252a66|1f247e95>: Update README.md - Paul  Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/1f247e95e78428a63ead9903bddfce9b2a252a66|1f247e95>: Update README.md - Paul  Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503623273.000193"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/1f247e95e78428a63ead9903bddfce9b2a252a66...03ea95a280171fc78fd90e338635e0270db6bf7f|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/03ea95a280171fc78fd90e338635e0270db6bf7f|03ea95a2>: Update README.md - Paul  Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/03ea95a280171fc78fd90e338635e0270db6bf7f|03ea95a2>: Update README.md - Paul  Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503623374.000091"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/03ea95a280171fc78fd90e338635e0270db6bf7f...c29fec060b10be23f540ed272ef7534adb7175f4|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/c29fec060b10be23f540ed272ef7534adb7175f4|c29fec06>: Update README.md - Paul  Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/c29fec060b10be23f540ed272ef7534adb7175f4|c29fec06>: Update README.md - Paul  Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503623485.000156"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/c29fec060b10be23f540ed272ef7534adb7175f4...5971a0345400fbaef33f7d4601f2d484b5790b84|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/5971a0345400fbaef33f7d4601f2d484b5790b84|5971a034>: Update README.md - Paul  Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/5971a0345400fbaef33f7d4601f2d484b5790b84|5971a034>: Update README.md - Paul  Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503623564.000133"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/5971a0345400fbaef33f7d4601f2d484b5790b84...439ccb0fdd9d852dd71a644732184366843bd186|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/439ccb0fdd9d852dd71a644732184366843bd186|439ccb0f>: Add new file - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/439ccb0fdd9d852dd71a644732184366843bd186|439ccb0f>: Add new file - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503625023.000058"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/439ccb0fdd9d852dd71a644732184366843bd186...dadf4ea93e4cc3e0191ffa6bb84f27162c560400|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/dadf4ea93e4cc3e0191ffa6bb84f27162c560400|dadf4ea9>: Added Audit presentation link - Paul  Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/dadf4ea93e4cc3e0191ffa6bb84f27162c560400|dadf4ea9>: Added Audit presentation link - Paul  Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503625291.000219"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/dadf4ea93e4cc3e0191ffa6bb84f27162c560400...5bad67d41754a6a638deb139e922dbc259a17e08|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/5bad67d41754a6a638deb139e922dbc259a17e08|5bad67d4>: Update M_Blundell_25_8 - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/5bad67d41754a6a638deb139e922dbc259a17e08|5bad67d4>: Update M_Blundell_25_8 - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503625832.000111"
+    },
+    {
+        "text": "Stephen Patrick Lonergan pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/5bad67d41754a6a638deb139e922dbc259a17e08...faa302649a486b7029f992723f2c6b73fd0f6793|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/faa302649a486b7029f992723f2c6b73fd0f6793|faa30264>: Update README.md - Stephen Patrick Lonergan",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/faa302649a486b7029f992723f2c6b73fd0f6793|faa30264>: Update README.md - Stephen Patrick Lonergan",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503631143.000096"
+    },
+    {
+        "text": "Stephen Patrick Lonergan pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/faa302649a486b7029f992723f2c6b73fd0f6793...a40298dfcf10eca645ff25508dc8411ea0d866d8|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/a40298dfcf10eca645ff25508dc8411ea0d866d8|a40298df>: Update README.md - Stephen Patrick Lonergan",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/a40298dfcf10eca645ff25508dc8411ea0d866d8|a40298df>: Update README.md - Stephen Patrick Lonergan",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503631167.000218"
+    },
+    {
+        "text": "Stephen Patrick Lonergan pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/a40298dfcf10eca645ff25508dc8411ea0d866d8...e9cc7fb47a945eea224f5d269fac3f0cf8e35d3c|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/e9cc7fb47a945eea224f5d269fac3f0cf8e35d3c|e9cc7fb4>: Update README.md - Stephen Patrick Lonergan",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/e9cc7fb47a945eea224f5d269fac3f0cf8e35d3c|e9cc7fb4>: Update README.md - Stephen Patrick Lonergan",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503631199.000016"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/e9cc7fb47a945eea224f5d269fac3f0cf8e35d3c...cf254af3992c8fe07c0c2ab177312bcf1010fc70|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/cf254af3992c8fe07c0c2ab177312bcf1010fc70|cf254af3>: Update README.md - Paul  Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/cf254af3992c8fe07c0c2ab177312bcf1010fc70|cf254af3>: Update README.md - Paul  Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503631206.000113"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/cf254af3992c8fe07c0c2ab177312bcf1010fc70...c72ee41cd81cdcbef6550f0182da97f547d2ade5|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/c72ee41cd81cdcbef6550f0182da97f547d2ade5|c72ee41c>: Added png of work packages\n - Paul Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/c72ee41cd81cdcbef6550f0182da97f547d2ade5|c72ee41c>: Added png of work packages\n - Paul Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503633477.000005"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "git pish posh push",
+        "ts": "1503633506.000179"
+    },
+    {
+        "text": "Stephen Patrick Lonergan pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/c72ee41cd81cdcbef6550f0182da97f547d2ade5...5111445c756e7921a4993e70f3eb3ab4c74dafe6|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/5111445c756e7921a4993e70f3eb3ab4c74dafe6|5111445c>: Upload ProForma_Ver002 - Stephen Patrick Lonergan",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/5111445c756e7921a4993e70f3eb3ab4c74dafe6|5111445c>: Upload ProForma_Ver002 - Stephen Patrick Lonergan",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503642516.000042"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/5111445c756e7921a4993e70f3eb3ab4c74dafe6...a76295161d93668341b9024d7cff20532c103f2a|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/a76295161d93668341b9024d7cff20532c103f2a|a7629516>: Added mounting shelf CAD\n - Paul Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/a76295161d93668341b9024d7cff20532c103f2a|a7629516>: Added mounting shelf CAD\n - Paul Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503642932.000144"
+    },
+    {
+        "text": "Brian Mizuhashi pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/a76295161d93668341b9024d7cff20532c103f2a...c114996421afa90af30c23dd666fd3da50465863|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/c114996421afa90af30c23dd666fd3da50465863|c1149964>: Delete restructured_requirements.pdf - Brian Mizuhashi",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/c114996421afa90af30c23dd666fd3da50465863|c1149964>: Delete restructured_requirements.pdf - Brian Mizuhashi",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503643003.000126"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/c114996421afa90af30c23dd666fd3da50465863...1e5d0aad41b0f466362cf3a4481c2b48e703f4ea|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/1e5d0aad41b0f466362cf3a4481c2b48e703f4ea|1e5d0aad>: Update M_Blundell_25_8 - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/1e5d0aad41b0f466362cf3a4481c2b48e703f4ea|1e5d0aad>: Update M_Blundell_25_8 - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503643973.000220"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/1e5d0aad41b0f466362cf3a4481c2b48e703f4ea...c8162df957633931d059e3d271bc7c834dbe3850|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/c8162df957633931d059e3d271bc7c834dbe3850|c8162df9>: Delete Project_Hours.xlsx - Paul  Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/c8162df957633931d059e3d271bc7c834dbe3850|c8162df9>: Delete Project_Hours.xlsx - Paul  Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503643991.000148"
+    },
+    {
+        "text": "Christopher Jiamin Leow pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/c8162df957633931d059e3d271bc7c834dbe3850...e4c58e1c26a60a23655d93c5f918f1660319cccd|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/e4c58e1c26a60a23655d93c5f918f1660319cccd|e4c58e1c>: Update M_Blundell_25_8 - Christopher Jiamin Leow",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/e4c58e1c26a60a23655d93c5f918f1660319cccd|e4c58e1c>: Update M_Blundell_25_8 - Christopher Jiamin Leow",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1503644005.000223"
+    }
+]

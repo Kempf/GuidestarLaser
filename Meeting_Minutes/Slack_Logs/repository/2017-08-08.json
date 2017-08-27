@@ -1,0 +1,124 @@
+[
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "If anyone is still having trouble with SSH access to the repo, make sure you have your key listed in <https:\/\/gitlab.cecs.anu.edu.au\/profile\/keys>\n\nIf you have more than one key, make sure you're using the correct one with your git client, look at `ssh-add` command\n\nif it still doesn't work the last step would be to manually add your key to the deploy key list here: <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/settings\/repository>",
+        "edited": {
+            "user": "U6GHG87HB",
+            "ts": "1502184915.000000"
+        },
+        "ts": "1502184868.662154"
+    },
+    {
+        "text": "He  Ma pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/e79c342c5a19757c44617eb374889789e613166f...6436212fdb395a17ad4ce6bf8aa35443164affd4|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/6436212fdb395a17ad4ce6bf8aa35443164affd4|6436212f>: Just a draft of what we gonna present. It's also good for our shadows to have an overall view - He  Ma",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/6436212fdb395a17ad4ce6bf8aa35443164affd4|6436212f>: Just a draft of what we gonna present. It's also good for our shadows to have an overall view - He  Ma",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1502192893.339419"
+    },
+    {
+        "text": "Alexander Charles Dalton pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/6436212fdb395a17ad4ce6bf8aa35443164affd4...535eab2a282969329710bdaf47943d3a95e0edd1|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/535eab2a282969329710bdaf47943d3a95e0edd1|535eab2a>: Update README.md - Alexander Charles Dalton",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/535eab2a282969329710bdaf47943d3a95e0edd1|535eab2a>: Update README.md - Alexander Charles Dalton",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1502236915.752054"
+    },
+    {
+        "text": "Alexander Charles Dalton pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/535eab2a282969329710bdaf47943d3a95e0edd1...d748838ed696a20db4c22e6d077ad5b60bf4009e|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/d748838ed696a20db4c22e6d077ad5b60bf4009e|d748838e>: Update Current_Tasks - Alexander Charles Dalton",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/d748838ed696a20db4c22e6d077ad5b60bf4009e|d748838e>: Update Current_Tasks - Alexander Charles Dalton",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1502237653.938756"
+    },
+    {
+        "text": "Alexander Charles Dalton pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/d748838ed696a20db4c22e6d077ad5b60bf4009e...ce864f700978816d77742be4951e8fde1f140787|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/ce864f700978816d77742be4951e8fde1f140787|ce864f70>: uploaded project contacts - Alexander Charles Dalton",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/ce864f700978816d77742be4951e8fde1f140787|ce864f70>: uploaded project contacts - Alexander Charles Dalton",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1502240415.580849"
+    },
+    {
+        "text": "Alexander Charles Dalton pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/ce864f700978816d77742be4951e8fde1f140787...ad3b6e8e4dfa1a6137308cc8ba75a1bec2e8236c|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/ad3b6e8e4dfa1a6137308cc8ba75a1bec2e8236c|ad3b6e8e>: Update Current_Tasks - Alexander Charles Dalton",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/ad3b6e8e4dfa1a6137308cc8ba75a1bec2e8236c|ad3b6e8e>: Update Current_Tasks - Alexander Charles Dalton",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1502240502.603172"
+    },
+    {
+        "text": "Wen Jie  Mu pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/ad3b6e8e4dfa1a6137308cc8ba75a1bec2e8236c...214e30118f03152c52e67fb83440c615c5ca8b98|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/214e30118f03152c52e67fb83440c615c5ca8b98|214e3011>: Update Current_Tasks - Wen Jie  Mu",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/214e30118f03152c52e67fb83440c615c5ca8b98|214e3011>: Update Current_Tasks - Wen Jie  Mu",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1502260826.683523"
+    },
+    {
+        "text": "Wen Jie  Mu pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/214e30118f03152c52e67fb83440c615c5ca8b98...e3a211d8650eb1fa1f33c885293dafae20550f50|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/e3a211d8650eb1fa1f33c885293dafae20550f50|e3a211d8>: Added decision making file  - Wen Jie  Mu",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/e3a211d8650eb1fa1f33c885293dafae20550f50|e3a211d8>: Added decision making file  - Wen Jie  Mu",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1502261141.759406"
+    }
+]

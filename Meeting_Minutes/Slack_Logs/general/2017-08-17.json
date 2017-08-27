@@ -1,0 +1,142 @@
+[
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Do people need a lift? Or is everyone okay to get the bus",
+        "ts": "1502958253.000225"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "i'll get the bus, not sure about the others",
+        "ts": "1502976006.000244"
+    },
+    {
+        "type": "message",
+        "user": "U6GC3A740",
+        "text": "when and where is the bus leaving？",
+        "ts": "1502980136.000255"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "in front of B&amp;G at 8:15, and 8:25 in front of unilodge on marcus clarke street, and no i'm not really sure where exactly that actually is",
+        "ts": "1502986138.000365"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "did anybody get on at b&amp;g? I'm on Marcus Clarke and I'm not sure where it's actually going to stop ",
+        "ts": "1503007946.000086"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Should stop at stromlo",
+        "ts": "1503008191.000216"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "And was there a map for the B&amp;G stop?",
+        "ts": "1503008214.000338"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "I mean I don't know where the bus stop is ",
+        "ts": "1503008304.000102"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Yeah, that clicked after. Any luck?",
+        "edited": {
+            "user": "U6GUPSJ2Y",
+            "ts": "1503008553.000000"
+        },
+        "ts": "1503008542.000326"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "I'm standing at the intersection so hopefully I'll see it ",
+        "ts": "1503008663.000141"
+    },
+    {
+        "type": "message",
+        "user": "U6GC3A740",
+        "text": "uh, Alex, have you left already, because me and wenji seems have some trouble to catch the bus ",
+        "ts": "1503009079.000350"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Keep in mind they did say the bus often runs late. But that doesn't sound good.",
+        "ts": "1503009507.000143"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "the bus is either super late or it doesn't actually stop here ",
+        "ts": "1503009666.000237"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "yeah so I've been standing at the intersection of Marcus Clarke at the unilodge for like 30 minutes at this point, I think it's safe to say it's not turning up ",
+        "ts": "1503010070.000178"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "we're going to take an Uber up if they'll take us ",
+        "ts": "1503010798.000028"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Ah shit yeah sorry i just got up here",
+        "ts": "1503010928.000209"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "I'm up. Gerry is just pulling in",
+        "ts": "1503011120.000315"
+    },
+    {
+        "type": "message",
+        "user": "U6GC3A740",
+        "text": "we catch a Uber instead, so we should be 30min late. I've sorted the requirements and uploaded it to artefact folder ",
+        "ts": "1503011135.000120"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "SSS non Confidential",
+        "ts": "1503014356.000059"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "<https:\/\/www.overleaf.com\/10672721wmpnpwjxwjnp>",
+        "attachments": [
+            {
+                "title": " Overleaf",
+                "title_link": "https:\/\/www.overleaf.com\/10672721wmpnpwjxwjnp",
+                "text": "The online platform for scientific writing. Overleaf is free: start writing now with one click. No sign-up required. Great on your iPad.",
+                "fallback": " Overleaf",
+                "image_url": "https:\/\/www.overleaf.com\/assets\/logos\/overleaf_og_logo.png",
+                "from_url": "https:\/\/www.overleaf.com\/10672721wmpnpwjxwjnp",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 6147,
+                "service_icon": "https:\/\/www.overleaf.com\/favicon.ico",
+                "service_name": "overleaf.com",
+                "id": 1
+            }
+        ],
+        "ts": "1503014359.000003"
+    }
+]

@@ -102,8 +102,8 @@
             "public_url_shared": false,
             "display_as_bot": false,
             "username": "",
-            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6KLB9PL6\/aug_4_client_meeting_1.docx?t=xoxe-220462257090-224026583927-222401595457-2df9ee4680",
-            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6KLB9PL6\/download\/aug_4_client_meeting_1.docx?t=xoxe-220462257090-224026583927-222401595457-2df9ee4680",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6KLB9PL6\/aug_4_client_meeting_1.docx?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6KLB9PL6\/download\/aug_4_client_meeting_1.docx?t=xoxe-220462257090-231756888321-233380711959-347be61632",
             "permalink": "https:\/\/guidestarlaser.slack.com\/files\/chris\/F6KLB9PL6\/aug_4_client_meeting_1.docx",
             "permalink_public": "https:\/\/slack-files.com\/T6GDL7K2N-F6KLB9PL6-319ac01e53",
             "channels": [
@@ -143,8 +143,8 @@
             "public_url_shared": false,
             "display_as_bot": false,
             "username": "",
-            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6JTFB9TP\/aug_4_group_meeting_1.docx?t=xoxe-220462257090-224026583927-222401595457-2df9ee4680",
-            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6JTFB9TP\/download\/aug_4_group_meeting_1.docx?t=xoxe-220462257090-224026583927-222401595457-2df9ee4680",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6JTFB9TP\/aug_4_group_meeting_1.docx?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6JTFB9TP\/download\/aug_4_group_meeting_1.docx?t=xoxe-220462257090-231756888321-233380711959-347be61632",
             "permalink": "https:\/\/guidestarlaser.slack.com\/files\/chris\/F6JTFB9TP\/aug_4_group_meeting_1.docx",
             "permalink_public": "https:\/\/slack-files.com\/T6GDL7K2N-F6JTFB9TP-a8fbd7b0eb",
             "channels": [
@@ -184,8 +184,8 @@
             "public_url_shared": false,
             "display_as_bot": false,
             "username": "",
-            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6KLBAE3G\/aug_4_tutor_minutes.docx?t=xoxe-220462257090-224026583927-222401595457-2df9ee4680",
-            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6KLBAE3G\/download\/aug_4_tutor_minutes.docx?t=xoxe-220462257090-224026583927-222401595457-2df9ee4680",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6KLBAE3G\/aug_4_tutor_minutes.docx?t=xoxe-220462257090-231756888321-233380711959-347be61632",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6KLBAE3G\/download\/aug_4_tutor_minutes.docx?t=xoxe-220462257090-231756888321-233380711959-347be61632",
             "permalink": "https:\/\/guidestarlaser.slack.com\/files\/chris\/F6KLBAE3G\/aug_4_tutor_minutes.docx",
             "permalink_public": "https:\/\/slack-files.com\/T6GDL7K2N-F6KLBAE3G-12ce5ccaf2",
             "channels": [
@@ -263,5 +263,21 @@
         "user": "U6GHG87HB",
         "text": "feel free to fill in your majors and skills in the README team list",
         "ts": "1502025563.604958"
+    },
+    {
+        "text": "Paul  Apelt pushed to branch <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commits\/master|master> of <https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser|u5568225\/GuidestarLaser> (<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/compare\/1a5bc89235896ac505708914d8c8b7b36ab477d6...b015298415ffc46324b3e0436866884aa3486dc6|Compare changes>)",
+        "username": "GitLabBot",
+        "bot_id": "B6HUSS3FA",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/b015298415ffc46324b3e0436866884aa3486dc6|b0152984>: Slack Logs\n - Paul Apelt",
+                "text": "<https:\/\/gitlab.cecs.anu.edu.au\/u5568225\/GuidestarLaser\/commit\/b015298415ffc46324b3e0436866884aa3486dc6|b0152984>: Slack Logs\n - Paul Apelt",
+                "id": 1,
+                "color": "334455"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1502077272.529083"
     }
 ]
