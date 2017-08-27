@@ -2,7 +2,9 @@
 
 Repository created on: 04/08/2017
 
-Developing a preliminary design for mounting the EOS and ANU SGL on the EOS 1.8m telescope at Mt. Stromlo.
+The goal of the project is to develop a preliminary design for mounting the EOS and ANU guide star lasers on the EOS 1.8m telescope at Mt. Stromlo. 
+The telescope is used for **laser-tracking satellites** and **space debris**, but its accuracy is limited by the **atmospheric distortions**. A laser guide star (produced by a **guide star laser**, which excites the sodium layer in the atmosphere)
+can be used to correct the atmospheric distortions using **adaptive optics** on the telescope. Two such guide star lasers (GSLs) are currently being made for the telescope.
 
 ![project diagram](http://i.imgur.com/0ppTVj8.png)
 
