@@ -16,6 +16,7 @@ The team works on this **weekly** on Fridays 9-5 in a shared space at AITC, Mt S
 Additional work is completed externally, including meetings for feedback reviews and individual work.
 
 ![project diagram](http://i.imgur.com/0ppTVj8.png)
+
 (Diagram supplied by EOS)
 
 ## Team
