@@ -1,0 +1,14 @@
+Person(s): Mark Blundell
+Date: 1 Sep 2017
+Topic: Mechanical deisgn documentation
+
+Discussion Points:
+- Concept Design
+
+Outcomes
+- Carbon fibre is good just check that the breadboards can fit into the frame easily
+- Standoffs on the frame-plate interface were there for a reason check with telescope CAD model as to why
+- Make sure to use inserts inside the tubes interfacing with the mounting plate to prevent them from crushing when mounted onto the plate
+- Potentially look at Carbon Spars & Tubes in Sydney for cross-sectional members
+- Look at using insulated Bondor pannels for enclosure
+- Make sure the holes mounting the frame to the backing plate align with the throughput hole for beam transfer optics (BTO)
