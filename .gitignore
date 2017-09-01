@@ -1,2 +1,3 @@
 # ignore system thumbnail files
 *.db
+# ignore all commits done by steve
