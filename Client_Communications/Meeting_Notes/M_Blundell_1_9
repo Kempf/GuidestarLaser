@@ -4,6 +4,7 @@ Topic: Mechanical deisgn documentation
 
 Discussion Points:
 - Concept Design
+- FEA Analysis on the Frame
 
 Outcomes
 - Carbon fibre is good just check that the breadboards can fit into the frame easily
@@ -12,3 +13,4 @@ Outcomes
 - Potentially look at Carbon Spars & Tubes in Sydney for cross-sectional members
 - Look at using insulated Bondor pannels for enclosure
 - Make sure the holes mounting the frame to the backing plate align with the throughput hole for beam transfer optics (BTO)
+- FEA on the frame is recommended and software typically is ANSYS
