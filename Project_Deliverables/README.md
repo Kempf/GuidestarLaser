@@ -3,6 +3,7 @@ This folder is the general folder for storage of files and work completed.
 
 ### Directories
 *	**Audit_Feedback_Actions**: Actions and decisions made in response to client and shadow feedback.
+*	**Cable_Routing**: diagrams with measurments of cable trays.
 *	**Concept_Design_Report_Documentation**: contains the concept design report.
 *	**Dome_Photos**: photos of the telescope space.
 *	**Electrical_Interface_Preliminary_Design**: electrical schematics and considerations.
