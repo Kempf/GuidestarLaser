@@ -3,11 +3,13 @@ This folder is the general folder for storage of files and work completed.
 
 ### Directories
 *	**Audit_Feedback_Actions**: Actions and decisions made in response to client and shadow feedback.
-*	**Dome_Photos**: photos of the telescope space
+*	**Concept_Design_Report_Documentation**: contains the concept design report.
+*	**Dome_Photos**: photos of the telescope space.
+*	**Electrical_Interface_Preliminary_Design**: electrical schematics and considerations.
 *	**Figures**: generic figures for reports, diagrams, etc.
+*	**Mechanical_Interface_Preliminary_Design**: CAD frame designs.
 *	**Outdated**: contains old versions of documents.
 *	**Project_Background_Information**: Background files, papers and references.
-
 
 ### Files
 * `Work_Ethic_Agreement.docx`:	This file details the expectations that the group has for each group member, regarding weekly workload and work locations, as well as communications standards, and expectations in the event of absences.
@@ -22,4 +24,4 @@ This folder is the general folder for storage of files and work completed.
 
 *	[Conflict resolution](https://docs.google.com/document/d/17XI3bLXP9oA0JVAiUGPcVCycXSnSJn45uxt__P4Jb6M/edit?usp=sharing) -  TODO list to resolve requirement conflicts
 
-
+*	[Vibration Overview](https://docs.google.com/document/d/1Qyyc3R13YdVeQmGfrSNuc1xS96W7sWySw377b-xw7Hk/edit?usp=sharing) - google doc with information on vibration-sensitive components.
