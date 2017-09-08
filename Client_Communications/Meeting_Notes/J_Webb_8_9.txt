@@ -1,0 +1,18 @@
+Person(s): James Webb
+Date: e.g. 8 Sep 2017
+Topic: EOS Laser reqs
+
+Discussion points
+- Envt reqs of laser
+- Logistical issues
+- Mounting options
+- Vibration issues
+
+Transcript
+https://docs.google.com/document/d/1f2ONNHPCY7rRkkx5WKahA1i3BuMqbD-9F9nkeQdGxd8/edit?usp=sharing
+
+Outcomes
+- Most environmental reqs outside scope
+- Enclose frame, put filter and fan
+- 1 power socket for aux to power all of it
+- any chiller will do
