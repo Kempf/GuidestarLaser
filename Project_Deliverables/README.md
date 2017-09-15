@@ -10,7 +10,6 @@ This folder is the general folder for storage of files and work completed.
 *	**Figures**: generic figures for reports, diagrams, etc.
 *	**Mechanical_Interface_Preliminary_Design**: CAD frame designs.
 *	**Outdated**: contains old versions of documents.
-*	**Project_Background_Information**: Background files, papers and references.
 
 ### Files
 * `Work_Ethic_Agreement.docx`:	This file details the expectations that the group has for each group member, regarding weekly workload and work locations, as well as communications standards, and expectations in the event of absences.
@@ -26,3 +25,5 @@ This folder is the general folder for storage of files and work completed.
 *	[Conflict resolution](https://docs.google.com/document/d/17XI3bLXP9oA0JVAiUGPcVCycXSnSJn45uxt__P4Jb6M/edit?usp=sharing) -  TODO list to resolve requirement conflicts
 
 *	[Vibration Overview](https://docs.google.com/document/d/1Qyyc3R13YdVeQmGfrSNuc1xS96W7sWySw377b-xw7Hk/edit?usp=sharing) - google doc with information on vibration-sensitive components.
+
+*	[Concept Design Report](https://www.overleaf.com/10956191yqmndhrgpfbn) (overleaf draft)
