@@ -31,6 +31,8 @@ from heating up the rest of the dome.
 side is for communications cables
 -Try to minimise the amount of things that go into the cable wrap; copper cables
 get damaged by it, but fibre cables are fine
+-Try to put any computer or control systems in the moving part of the telescope
+instead of through the cable wrap
 -igus is the company that built the cable chain, check website for specifications
 -Fibre cable could suffer other problems from 40 meter length, ask the laser 
 engineers
