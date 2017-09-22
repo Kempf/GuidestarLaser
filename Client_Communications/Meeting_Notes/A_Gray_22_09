@@ -1,0 +1,36 @@
+Person: Jack (Andrew) Gray
+Date: 22nd of September 2017
+Topic: Cooling system, electrical and communications cables
+
+Discussion topics:
+What is the EOS's current cooling system?
+Do they have any available cooling for the ANU laser?
+What setup of chillers are they planning on/prefer?
+Data sheets and specifications for the chillers?
+Constraints on the cable wrap?
+Constraints on the fibre cable?
+
+
+Outcomes:
+-There is currently nothing for cooling up in the 1.8m telescope right now
+-There is a large cooling system throughout the observatory right now with large
+liquid-air chillers connected to a network of heat exchangers; this would be very
+difficult to connect to the 1.8m telescope
+-Rotating water pipes are not possible or provide almost no flow
+-For a smaller amount of cooling (less than a few kilowatts) the telescope should
+have its own chillers
+-Air-liquid chillers should not be directly connected to the laser because it is
+not proven that they can maintain temperature stability
+-Bay Voltex heat exchangers could be connected to the lasers (one for each
+requires temperature setting, these are currently used for the lasers), and
+these should be connected to a chiller (or more than one) on the bottom level, 
+which can eject the heat into the partially insulted environment preventing it 
+from heating up the rest of the dome.
+-Recommended chillers (https://koolance.com/index.php?route=product/category&path=150_151)
+-Cable wrap goes 8-10 metres around; one side is for electrical cables, other 
+side is for communications cables
+-Try to minimise the amount of things that go into the cable wrap; copper cables
+get damaged by it, but fibre cables are fine
+-igus is the company that built the cable chain, check website for specifications
+-Fibre cable could suffer other problems from 40 meter length, ask the laser 
+engineers
