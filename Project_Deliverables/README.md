@@ -27,3 +27,9 @@ This folder is the general folder for storage of files and work completed.
 *	[Vibration Overview](https://docs.google.com/document/d/1Qyyc3R13YdVeQmGfrSNuc1xS96W7sWySw377b-xw7Hk/edit?usp=sharing) - google doc with information on vibration-sensitive components.
 
 *	[Concept Design Report](https://www.overleaf.com/10956191yqmndhrgpfbn) (overleaf draft)
+
+*	[Electircal Susbsystem Design](https://www.overleaf.com/11196578wftzvyczxcpr) (overleaf)
+
+*	[Environmental Subsystem Design](https://www.overleaf.com/11183242mvksvqtwyvph) (overleaf)
+
+*	[Mechanical Subsystem Design](https://www.overleaf.com/11196630ghtvxrztwfpj) (overleaf)
