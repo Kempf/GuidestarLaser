@@ -1,0 +1,98 @@
+A: pretty much finished the frame, will start writing the doc today. Want to do some caluclations to make sure it's strong enough.
+S: rub one off when you have a shower
+S: Why that password change?
+A: Because it expired.
+S: *more useless banter*
+W: these two cooling designs are the same
+S: yeah
+W: when the system reaches steady state it's exactly the same 
+W: split into three separate pipes
+S: that's an option
+W: so yeah there's a difference
+S: did you make them yourself?
+W: yes
+S: I am awake
+B: do they have a temperature thing inside the laser
+A: are you taking notes pole?
+P: yes
+S: pole writes notes
+W: *something about coolers*
+S: *coolers*
+S: alex, you seem to know what you're doing
+A: let's decide what we need to do by week 10
+S: do we want to take up chris on his offer and have a chat?
+W: I didn't get that
+S: yeah you did, you were ccd
+W: no, I actually legitematly don't have it
+A: what's your u-number?
+B: it eneded up in junk
+A: would it be worth meeting with him? it's useless and no time
+S: he probs have diff priorities, and make us do useless stuff
+A: not keen on doing that
+A: let's send him an email saying f off
+S: phrase it better
+S: project showcase is on 12 Oct
+A: I think course work should be a priority. When do we submit the poster?
+S: Same day as project showcase. 12 Oct.
+A: In that case let's have it finished by Mon week 10.
+S: I'd like Jared to go over it and let's stick to the other ones upstairs. Have final draft by Monday week 10.
+A: It should be easy enough to write a high-level summary of their section. Take intro from old poster.
+S: Let's rewrite old poster to minimize citations
+P: steve can't do references without latex anymore
+A: is everyone happy with that
+P: I can put the poster together
+S: I'll get temlate from marcus
+W: was EOS cooling 16 or 14?
+S: 17C
+W: +-1C precision
+W: Jack thought cooling will be in the lab
+S: that's not confirmed 
+S: here's the old poster
+P: yeah I can make that
+A: do we want to have all group stuff finished by mon wk 10?
+S: yeah that gives us two more fridays
+A: is everyone on track?
+S: W, are you on track?
+W: yeah
+S: inc report?
+W: yeah, 2-3 pages long
+A: def can do my bit
+S: B?
+B: I have questions about control system, does EOS laser monitor temperature inside the laser?
+S: What temp?
+B: Cooling.
+S: the coolers are separate
+W: the coolers control the temp of the water
+S: *lots of pointless discussion about cooling*
+B: so we don't need any temp sensor?
+S: no, focus on power draw and comms
+A: have you thought about getting cables from EC to LH?
+B: they already managed it
+A: no, whole enclosure is our idea
+S: there are 10 cables from EC to LH, if EC is on ground floor that's lots of cables
+A: also in terms of getting it inside the box
+A: I was googling something the other day, like air tight cable plugs
+W: we'll need water cables too, isn't breadboard enclosed?
+A: yes *shows blueprint*
+W: you need a gap near where ANU laser is sitting for the cooling
+S: have one entry point at each breadboard
+W: yeah that could work
+B: remember when james drew diagram of 3 breadboards, which breadboard on each level?
+S: make the same holes at each level
+W: water flow? ~10 cm pipe
+W: we will need 3 entry and exit points for 10 cm pipe
+S: are you sure? is it capable of that?
+A: do we need a big report if we have subsystem reports?
+S: yeah because stuff and things
+W: this is for steel pipes we are not using that, I think it was 9/11 per minute, which is low
+S: I can't find this meeting, has Chris bamboolzled me?
+W: how many liters is a gallon?
+S: it's like 3, imperial or the other one? 
+W: what's gpm?
+P: gallons per minute
+S: imperial or us?
+P: US, no one uses that other one
+W: how is cooling capacity not tied to pump rate?
+S: *more theory of coolers*
+S: ok meeting is over
+
