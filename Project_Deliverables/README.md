@@ -28,7 +28,7 @@ This folder is the general folder for storage of files and work completed.
 
 *	[Concept Design Report](https://www.overleaf.com/10956191yqmndhrgpfbn) (overleaf draft)
 
-*	[Electircal Susbsystem Design](https://www.overleaf.com/11319806gdmbrxwggvbs) (overleaf)
+*	[Electrical Subsystem Design](https://www.overleaf.com/11319806gdmbrxwggvbs) (overleaf)
 
 *	[Environmental Subsystem Design](https://www.overleaf.com/11303618bsgxdkttkfjt) (overleaf)
 
