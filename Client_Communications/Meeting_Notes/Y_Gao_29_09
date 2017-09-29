@@ -16,11 +16,13 @@ as low as 30-50 W of thermal cooling required
 temperatures, any correlation is a pure coincidence and it is unlikely that the
 temperatures required would be the same
 -Currently being cooled by a combination of termotek and bay voltex (with one 
-thermo scientific) chillers, no heat exchangers present
+thermo scientific, which has very low noise) chillers, no heat exchangers present
 -A liquid-liquid and liquid-air system would be very difficult to install in the 
 dome, recommended that it be a single layer liquid-air system instead
 -Different types of water in different chillers: distilled, deionised, 
 de-mineralised, opti-shield solution.
+-The different components of the laser are likely to require different types of
+water
 -bay voltex chillers are used because they can use the opti-shield solution
 -Specifications for the chillers are sent to the supplier, such as water flow
 -The chillers are monitored remotely 
