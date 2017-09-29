@@ -7,7 +7,7 @@ Discussion points:
 
 Outcomes
 - Update to requirements
- - 2.1.1 -> Number of breadboards is no longer certain
+ - 2.1.1 -> Number of breadboards is no longer certain. 2 breadboards is the most likely scenario
  - 2.1.8 -> One component is required to be placed within 2 metres, rest anywhere, size is likely to be smaller, could be split up into separate packages -> follow up
  - 2.5.4 -> Vibration number is still not certain
  - 2.5.5 -> Air quality is controlled by design of the GSL, no external systems for now, likely out of our scope -> follow up
