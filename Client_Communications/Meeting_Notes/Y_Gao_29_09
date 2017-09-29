@@ -8,6 +8,7 @@ What are the cooling systems currently used by the EOS GSL in the lab?
 Should the system be liquid-liquid, liquid-air, or a combination?
 What sort of water quality is required for the EOS GSL and the chillers?
 What are the control systems used for the cooling systems?
+How to prevent the system from being damaged by a drop below 0 degrees?
 
 Outcomes:
 -The EOS GSL is looking at a very low cooling required; alternate design could go
@@ -26,3 +27,7 @@ water
 -bay voltex chillers are used because they can use the opti-shield solution
 -Specifications for the chillers are sent to the supplier, such as water flow
 -The chillers are monitored remotely 
+-Antifreeze (Ethylene Glycol) cannot be added to the cooling loop as the chillers
+that use optishield or deionised water cannot work with it
+-Laser cannot operate at such low temperatures anyway, the laser head itself
+should remain above zero because of the enclosure
