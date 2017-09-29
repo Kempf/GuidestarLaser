@@ -12,7 +12,7 @@ This folder is the general folder for storage of files and work completed.
 *	**Outdated**: contains old versions of documents.
 
 ### Files
-* `Work_Ethic_Agreement.docx`:	This file details the expectations that the group has for each group member, regarding weekly workload and work locations, as well as communications standards, and expectations in the event of absences.
+*	`Work_Ethic_Agreement.docx`:	This file details the expectations that the group has for each group member, regarding weekly workload and work locations, as well as communications standards, and expectations in the event of absences.
 	
 *	`ProForma_Verxxx.pdf`:		Details the scope of the project, the project objectives and deliverables, as well as a basic scheduling, project breakdown, and risk analysis. This is intended as an update of the previous teams work, as well as an overview of the project. Overleaf: https://www.overleaf.com/10595988ydvxrwtmksfk#/39637919/
 	
@@ -28,7 +28,7 @@ This folder is the general folder for storage of files and work completed.
 
 *	[Concept Design Report](https://www.overleaf.com/10956191yqmndhrgpfbn) (overleaf draft)
 
-*	[Electrical Subsystem Design](https://www.overleaf.com/11319806gdmbrxwggvbs) (overleaf)
+*	[Electrical Subsystem Design](https://www.overleaf.com/11322851qgcphdpmpbkq) (overleaf)
 
 *	[Environmental Subsystem Design](https://www.overleaf.com/11303618bsgxdkttkfjt) (overleaf)
 
