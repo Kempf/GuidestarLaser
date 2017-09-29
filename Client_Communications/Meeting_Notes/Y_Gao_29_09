@@ -1,0 +1,27 @@
+Person: Yue Gao
+Date: 29th September, 2017
+Topic: The current cooling systems implemented for the EOS GSL
+
+Discussion Questions:
+What is the cooling capacity of the systems and the cooling capacity required for the GSL?
+What are the cooling systems currently used by the EOS GSL in the lab?
+Should the system be liquid-liquid, liquid-air, or a combination?
+What sort of water quality is required for the EOS GSL and the chillers?
+What are the control systems used for the cooling systems?
+
+Outcomes:
+-The EOS GSL is looking at a very low cooling required; alternate design could go
+as low as 30-50 W of thermal cooling required
+-The oscillators and the amplifiers are likely to require different cooling 
+temperatures, any correlation is a pure coincidence and it is unlikely that the
+temperatures required would be the same
+-Currently being cooled by a combination of termotek and bay voltex (with one 
+thermo scientific) chillers, no heat exchangers present
+-A liquid-liquid and liquid-air system would be very difficult to install in the 
+dome, recommended that it be a single layer liquid-air system instead
+-Different types of water in different chillers: distilled, deionised, 
+de-mineralised, opti-shield solution.
+-bay voltex chillers are used because they can use the opti-shield solution
+-Specifications for the chillers are sent to the supplier, such as water flow and
+operating temperature range
+-The chillers are monitored remotely 
