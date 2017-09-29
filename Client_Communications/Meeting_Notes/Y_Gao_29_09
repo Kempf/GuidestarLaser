@@ -29,5 +29,5 @@ water
 -The chillers are monitored remotely 
 -Antifreeze (Ethylene Glycol) cannot be added to the cooling loop as the chillers
 that use optishield or deionised water cannot work with it
--Laser cannot operate at such low temperatures anyway, the laser head itself
+-Laser cannot operate at such low temperatures, the laser head itself
 should remain above zero because of the enclosure
