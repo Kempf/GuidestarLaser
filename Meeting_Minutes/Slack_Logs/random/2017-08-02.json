@@ -1,14 +1,14 @@
 [
     {
         "user": "U6GC3A740",
-        "text": "<@U6GC3A740|alphanovabrian> has joined the channel",
+        "text": "<@U6GC3A740> ist dem Channel beigetreten",
         "type": "message",
         "subtype": "channel_join",
         "ts": "1501675970.394531"
     },
     {
         "user": "U6HEWMKC4",
-        "text": "<@U6HEWMKC4|adalton> has joined the channel",
+        "text": "<@U6HEWMKC4> ist dem Channel beigetreten",
         "type": "message",
         "subtype": "channel_join",
         "ts": "1501718833.381891"

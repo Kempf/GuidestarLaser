@@ -1,0 +1,89 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U6GUPSJ2Y> hat eine Datei hochgeladen: <https:\/\/guidestarlaser.slack.com\/files\/U6GUPSJ2Y\/F780GBG5C\/capture__2017-09-22-14-10-45.png|Capture+_2017-09-22-14-10-45.png> und kommentiert: Chris for President",
+        "file": {
+            "id": "F780GBG5C",
+            "created": 1506053474,
+            "timestamp": 1506053474,
+            "name": "Capture+_2017-09-22-14-10-45.png",
+            "title": "Capture+_2017-09-22-14-10-45.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U6GUPSJ2Y",
+            "editable": false,
+            "size": 536856,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F780GBG5C\/capture__2017-09-22-14-10-45.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F780GBG5C\/download\/capture__2017-09-22-14-10-45.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F780GBG5C-8521ffef28\/capture__2017-09-22-14-10-45_64.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F780GBG5C-8521ffef28\/capture__2017-09-22-14-10-45_80.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F780GBG5C-8521ffef28\/capture__2017-09-22-14-10-45_360.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_360_w": 217,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F780GBG5C-8521ffef28\/capture__2017-09-22-14-10-45_480.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_480_w": 289,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F780GBG5C-8521ffef28\/capture__2017-09-22-14-10-45_160.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F780GBG5C-8521ffef28\/capture__2017-09-22-14-10-45_720.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_720_w": 433,
+            "thumb_720_h": 720,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F780GBG5C-8521ffef28\/capture__2017-09-22-14-10-45_800.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_800_w": 800,
+            "thumb_800_h": 1329,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F780GBG5C-8521ffef28\/capture__2017-09-22-14-10-45_960.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_960_w": 578,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F780GBG5C-8521ffef28\/capture__2017-09-22-14-10-45_1024.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_1024_w": 616,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 1440,
+            "original_h": 2392,
+            "permalink": "https:\/\/guidestarlaser.slack.com\/files\/U6GUPSJ2Y\/F780GBG5C\/capture__2017-09-22-14-10-45.png",
+            "permalink_public": "https:\/\/slack-files.com\/T6GDL7K2N-F780GBG5C-aeb5e5e1da",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc775F4KK6",
+                "created": 1506053474,
+                "timestamp": 1506053474,
+                "user": "U6GUPSJ2Y",
+                "is_intro": true,
+                "comment": "Chris for President"
+            },
+            "reactions": [
+                {
+                    "name": "ok_hand",
+                    "users": [
+                        "U6GHG87HB"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "crown",
+                    "users": [
+                        "U6GHN174M"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        "user": "U6GUPSJ2Y",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "stevelon",
+        "bot_id": null,
+        "ts": "1506053479.000044"
+    }
+]
