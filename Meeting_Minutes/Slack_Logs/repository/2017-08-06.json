@@ -82,7 +82,7 @@
     {
         "type": "message",
         "subtype": "file_share",
-        "text": "<@U6GHN174M|chris> uploaded a file: <https:\/\/guidestarlaser.slack.com\/files\/chris\/F6KLB9PL6\/aug_4_client_meeting_1.docx|Aug 4 Client Meeting 1.docx>",
+        "text": "<@U6GHN174M> hat eine Datei hochgeladen: <https:\/\/guidestarlaser.slack.com\/files\/U6GHN174M\/F6KLB9PL6\/aug_4_client_meeting_1.docx|Aug 4 Client Meeting 1.docx>",
         "file": {
             "id": "F6KLB9PL6",
             "created": 1502017123,
@@ -102,13 +102,11 @@
             "public_url_shared": false,
             "display_as_bot": false,
             "username": "",
-            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6KLB9PL6\/aug_4_client_meeting_1.docx?t=xoxe-220462257090-231756888321-233380711959-347be61632",
-            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6KLB9PL6\/download\/aug_4_client_meeting_1.docx?t=xoxe-220462257090-231756888321-233380711959-347be61632",
-            "permalink": "https:\/\/guidestarlaser.slack.com\/files\/chris\/F6KLB9PL6\/aug_4_client_meeting_1.docx",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6KLB9PL6\/aug_4_client_meeting_1.docx?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6KLB9PL6\/download\/aug_4_client_meeting_1.docx?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "permalink": "https:\/\/guidestarlaser.slack.com\/files\/U6GHN174M\/F6KLB9PL6\/aug_4_client_meeting_1.docx",
             "permalink_public": "https:\/\/slack-files.com\/T6GDL7K2N-F6KLB9PL6-319ac01e53",
-            "channels": [
-                "C6K9C0WSK"
-            ],
+            "channels": [],
             "groups": [],
             "ims": [],
             "comments_count": 0
@@ -123,7 +121,7 @@
     {
         "type": "message",
         "subtype": "file_share",
-        "text": "<@U6GHN174M|chris> uploaded a file: <https:\/\/guidestarlaser.slack.com\/files\/chris\/F6JTFB9TP\/aug_4_group_meeting_1.docx|Aug 4 Group Meeting 1.docx>",
+        "text": "<@U6GHN174M> hat eine Datei hochgeladen: <https:\/\/guidestarlaser.slack.com\/files\/U6GHN174M\/F6JTFB9TP\/aug_4_group_meeting_1.docx|Aug 4 Group Meeting 1.docx>",
         "file": {
             "id": "F6JTFB9TP",
             "created": 1502017125,
@@ -143,13 +141,11 @@
             "public_url_shared": false,
             "display_as_bot": false,
             "username": "",
-            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6JTFB9TP\/aug_4_group_meeting_1.docx?t=xoxe-220462257090-231756888321-233380711959-347be61632",
-            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6JTFB9TP\/download\/aug_4_group_meeting_1.docx?t=xoxe-220462257090-231756888321-233380711959-347be61632",
-            "permalink": "https:\/\/guidestarlaser.slack.com\/files\/chris\/F6JTFB9TP\/aug_4_group_meeting_1.docx",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6JTFB9TP\/aug_4_group_meeting_1.docx?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6JTFB9TP\/download\/aug_4_group_meeting_1.docx?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "permalink": "https:\/\/guidestarlaser.slack.com\/files\/U6GHN174M\/F6JTFB9TP\/aug_4_group_meeting_1.docx",
             "permalink_public": "https:\/\/slack-files.com\/T6GDL7K2N-F6JTFB9TP-a8fbd7b0eb",
-            "channels": [
-                "C6K9C0WSK"
-            ],
+            "channels": [],
             "groups": [],
             "ims": [],
             "comments_count": 0
@@ -164,7 +160,7 @@
     {
         "type": "message",
         "subtype": "file_share",
-        "text": "<@U6GHN174M|chris> uploaded a file: <https:\/\/guidestarlaser.slack.com\/files\/chris\/F6KLBAE3G\/aug_4_tutor_minutes.docx|Aug 4 Tutor Minutes.docx>",
+        "text": "<@U6GHN174M> hat eine Datei hochgeladen: <https:\/\/guidestarlaser.slack.com\/files\/U6GHN174M\/F6KLBAE3G\/aug_4_tutor_minutes.docx|Aug 4 Tutor Minutes.docx>",
         "file": {
             "id": "F6KLBAE3G",
             "created": 1502017128,
@@ -184,13 +180,11 @@
             "public_url_shared": false,
             "display_as_bot": false,
             "username": "",
-            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6KLBAE3G\/aug_4_tutor_minutes.docx?t=xoxe-220462257090-231756888321-233380711959-347be61632",
-            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6KLBAE3G\/download\/aug_4_tutor_minutes.docx?t=xoxe-220462257090-231756888321-233380711959-347be61632",
-            "permalink": "https:\/\/guidestarlaser.slack.com\/files\/chris\/F6KLBAE3G\/aug_4_tutor_minutes.docx",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6KLBAE3G\/aug_4_tutor_minutes.docx?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6KLBAE3G\/download\/aug_4_tutor_minutes.docx?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "permalink": "https:\/\/guidestarlaser.slack.com\/files\/U6GHN174M\/F6KLBAE3G\/aug_4_tutor_minutes.docx",
             "permalink_public": "https:\/\/slack-files.com\/T6GDL7K2N-F6KLBAE3G-12ce5ccaf2",
-            "channels": [
-                "C6K9C0WSK"
-            ],
+            "channels": [],
             "groups": [],
             "ims": [],
             "comments_count": 0

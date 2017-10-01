@@ -1,7 +1,7 @@
 [
     {
         "user": "U6GHN174M",
-        "text": "<@U6GHN174M|chris> has joined the channel",
+        "text": "<@U6GHN174M> ist dem Channel beigetreten",
         "type": "message",
         "subtype": "channel_join",
         "ts": "1501845071.166676"
@@ -9,7 +9,7 @@
     {
         "user": "U6GHN174M",
         "purpose": "talk about only repository related things",
-        "text": "<@U6GHN174M|chris> set the channel purpose: talk about only repository related things",
+        "text": "<@U6GHN174M> hat die Zielsetzung für den Channel festgelegt: talk about only repository related things",
         "type": "message",
         "subtype": "channel_purpose",
         "ts": "1501845072.167006"
@@ -17,7 +17,7 @@
     {
         "user": "U6GHG87HB",
         "inviter": "U6GHN174M",
-        "text": "<@U6GHG87HB|paul.apelt> has joined the channel",
+        "text": "<@U6GHG87HB> ist dem Channel beigetreten",
         "type": "message",
         "subtype": "channel_join",
         "ts": "1501845110.177330"
@@ -25,7 +25,7 @@
     {
         "user": "U6GUPSJ2Y",
         "inviter": "U6GHN174M",
-        "text": "<@U6GUPSJ2Y|stevelon> has joined the channel",
+        "text": "<@U6GUPSJ2Y> ist dem Channel beigetreten",
         "type": "message",
         "subtype": "channel_join",
         "ts": "1501845110.177360"
@@ -33,7 +33,7 @@
     {
         "user": "U6GC3A740",
         "inviter": "U6GHN174M",
-        "text": "<@U6GC3A740|alphanovabrian> has joined the channel",
+        "text": "<@U6GC3A740> ist dem Channel beigetreten",
         "type": "message",
         "subtype": "channel_join",
         "ts": "1501845110.177395"
@@ -41,7 +41,7 @@
     {
         "user": "U6HEWMKC4",
         "inviter": "U6GHN174M",
-        "text": "<@U6HEWMKC4|adalton> has joined the channel",
+        "text": "<@U6HEWMKC4> ist dem Channel beigetreten",
         "type": "message",
         "subtype": "channel_join",
         "ts": "1501845110.177424"
@@ -49,7 +49,7 @@
     {
         "user": "U6FQVARFA",
         "inviter": "U6GHN174M",
-        "text": "<@U6FQVARFA|wenjie_> has joined the channel",
+        "text": "<@U6FQVARFA> ist dem Channel beigetreten",
         "type": "message",
         "subtype": "channel_join",
         "ts": "1501845110.177465"
