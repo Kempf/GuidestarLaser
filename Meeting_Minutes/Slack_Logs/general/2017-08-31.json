@@ -1,0 +1,72 @@
+[
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "hey guys, sorry about the late notice, I have a mid-sem today that I couldn't reschedule, so I won't be coming up to Stromlo today. If you need anything just msg me. ",
+        "ts": "1504206378.000544"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Aye Wenjie, have you started doing any work on the cable routing type stuff?",
+        "ts": "1504221592.000157"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "you mean the water cooling or the power cables? I think the water cooling doesn't actually require that much flow since most of it is closed loop. The power cables I haven't started yet. ",
+        "ts": "1504224180.000066"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "Also since I talked to JW at the end of yesterday, he told me that the air quality inside the telescope can't be controlled, and that it would instead be done by forced air circulation just inside the laser ",
+        "ts": "1504224271.000119"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "Can somebody verify if we're meant to be putting an enclosure around the laser, or if the laser will come with that on the breadboards already, which means we won't have to worry about the air quality ?",
+        "ts": "1504224361.000052"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "*last week not yesterday ",
+        "ts": "1504224432.000045"
+    },
+    {
+        "type": "message",
+        "user": "U6FQVARFA",
+        "text": "Because if we're the ones dealing with the air quality instead of or in addition to EOS I assume that's drastically going to change our mechanical designs; JW described an enclosure around the important laser parts with a small fan or other forced air circulation to keep it clear. I'm assuming that they're going to do that, but we should find out if they're going to completely deal with that requirement in their design, or if expect us to do part of it or account for it in our design.",
+        "ts": "1504224923.000090"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "<https:\/\/hackaday.com\/2016\/06\/20\/how-lasers-actually-work\/> - this was in the previous team work folder",
+        "attachments": [
+            {
+                "service_name": "Hackaday",
+                "service_url": "http:\/\/hackaday.com",
+                "title": "How Lasers Actually Work",
+                "title_link": "https:\/\/hackaday.com\/2016\/06\/20\/how-lasers-actually-work\/",
+                "author_name": "Moritz Walter",
+                "author_link": "https:\/\/hackaday.com\/author\/moritzwalter\/",
+                "thumb_url": "https:\/\/hackadaycom.files.wordpress.com\/2016\/06\/howlasers.jpg?w=1200&fit=200%2C150",
+                "thumb_width": 200,
+                "thumb_height": 121,
+                "text": "Lasers are optical amplifiers, optical oscillators, and in a way, the most sophisticated light source ever invented. Not only are lasers extremely useful, but they are also champions of magnitude: While different laser types cover the electromagnetic spectrum from radiation (Light Amplification by Stimulated Emission Of Radiation, which suggests that it makes use of a phenomenon called stimulated emission, but well, how exactly do they do that? It&rsquo;s time to look the laser in the eye (Disclaimer: don&rsquo;t!).\n\nThe&nbsp;Optical Amplifier\nWhen we talk about the amplification of electrical signals, we are typically not too concerned about whether or not the amplified signal is actually the original signal &ndash; just amplified. The minuscule flow of electrons in a bus line may transport a&nbsp;signal, but this signal is not bound to that exact representation. We can send it through a transformer, optocoupler or piezo-transducer and, if we do it right, it just won&rsquo;t matter. We are really ok if an amplified signal is a good, enlarged copy, as long as the copy retains the subset of properties of the original signal we are interested in.\nLight is however indeed&nbsp;bound to its inherent representation as an electromagnetic wave. To understand how light is amplified &ndash; or copied &ndash; we need to look at the different properties of light both as a wave and as a particle. As a wave, it&rsquo;s really not much more than synchronized oscillations of electric and magnetic fields propagating through space. To amplify it, we would want to somehow increase the amplitude of this oscillation while leaving its temporal course, such as its phase and frequency, intact. As a particle, however, a photon of a certain wavelength, direction, and&nbsp;polarization&nbsp;&ndash; all we can do is add more. So, if take this photon and we add another photon with this very same properties &ndash; a copy so to speak &ndash; we will see that the amplitude of our electromagnetic wave also doubles. It is amplified.\n\nSince all we can do to amplify light, an optical amplifier must contain some kind of photon xerox &mdash; only this one really needs to leave the numbers intact. In lasers, this task of copying photons is done by special atoms (or molecules) inside the optical amplifier. They are called the active laser medium, and in a Helium-Neon laser, for example, it&rsquo;s the Neon gas. All it needs is a container, an energy source, and some kind of windows for light to enter and exit. This contraption is the key element of every laser, from laser diodes over CO2 laser tubes to fiber lasers.\n\nHow To Make&nbsp;A Photon\nMost photons we see in everyday life originate from a process called spontaneous emission. Atoms and molecules can be stimulated to transition to higher energy states than their ground state, in which the outer electrons leave their regular orbits and transition into more energetic states. If this state of excitation is long-lived (metastable), they may stay in this state for quite a while, but always keep a certain tendency to translate back to a lower energy state. Sooner or later, they will do so &ndash; spontaneously &ndash; while emitting a photon of a certain frequency in a random direction and with a random phase. This is called spontaneous emission, and the frequency of the emitted photon depends on the energy differential between the high (E2) and low energy state (E1). Compact fluorescent lamps, as well as incandescent lamps with a halogen filling, make use of this phenomenon.\n\nHow To Copy&nbsp;A Photon\nNow, if a photon of this exact frequency f21, collides with such an excited atom, it can stimulate the atom to transition back to the low energy state right away, before it has time to do so spontaneously. The electromagnetic field of this original photon causes the atom to turn into an electrical dipole and oscillate with the external field. This deep interaction causes the emitted, new photon to take on the same phase and direction as the original one, which makes it practically a copy. Regarding most of the special properties of lasers, such as high monochromaticity, coherence and diffraction limited divergence angle, this quantum mechanical interaction is pretty much the bottom of the barrel.\n\nHowever, inversely to stimulated emission, incoming photons can also run into atoms of the laser medium that are in the low-energy ground state. These photons will be absorbed, exciting the atom to the corresponding high-energy state. Unless another photon collides with the same atom soon enough to cause a stimulated emission, this atom is likely to spontaneously fall back to its ground state. It will still release a photon, but the photon released in a spontaneous emission can have any direction or phase and won&rsquo;t align with the absorbed photon&rsquo;s direction or phase, which results in an attenuation of incoming light.\nPopulation Inversion\nWith a large number of atoms of the gain medium, the actual amplification process becomes a statistical sum of collisions. If there&nbsp;is a higher concentration of&nbsp;atoms in a low energy state than in the high energy state, we will experience a net loss of photons and thus, an attenuation of light. If the number of excited atoms is larger than the number of low energy atoms, we will experience a net gain. This overbalance of excited atoms is called the population inversion, and it is a basic requirement for optical amplification.\n\nHowever, with an overbalance of excited atoms, such a two level system becomes highly unstable &ndash; it&rsquo;s practically impossible to maintain. To achieve a population inversion in a stable system, optical amplifiers and lasers make use of more than two excitation levels of the involved atoms. For example, by exciting atoms from the ground state E1 to an excitation state E3, a population inversion between E3 and an intermediate energy state E2 can occur even if more low energy atoms are present in the ground state E1. As long as atoms transition from E2 to E1&nbsp;&ndash; for example by a secondary spontaneous emission &ndash; at the same rate as atoms are lifted up from E1 to E3, the light amplification process at f32 can happen.\n\nPump it\nTo achieve the primary excitation of the laser medium to just the right high energy state, we need a mechanism to lift its atoms up there. This action is called pumping. Different types of lasers use different pumping methods, but besides keeping it going in an efficient and feasible way, it has little effect on the stimulated emission process itself. In some cases, the pumping itself is done by secondary light sources, such as discharge tubes or light emitting diodes. In other cases, the pumping is a well-designed bucket-chain of electrons and atoms or molecules passing on energy from a high voltage source to the atoms of the laser medium.\n\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tEnergy levels of the Helium-Neon laser by Dr. Bob CC BY-SA 3.0 (edited, image source)\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tEnergy levels of the Nd:YAG laser by Sawims (edited, image source)\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tEnergy levels of the CO2 laser by Wisem (edited, image source)\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tEnergy levels of the ruby laser by Markus K&ouml;hler CC BY-SA 2.5 (edited, image source)\n\t\t\t\t\n\nThe first laser ever built, the ruby laser, uses photons emitted from a Xenon flash tube to excite chromium ions suspended in a synthetic sapphire. Other crystal lasers, such as Nd:YAG lasers, can be pumped by either arc lamps (or flashes), typically Xenon or Krypton, or more efficiently by light emitting diodes. Generally, diode pumped solid state lasers (DPSSL) use photons emitted from semiconductor diode junctions to pump various laser media.\n\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tHelium-Neon laser by Tommy Markstein CC BY-SA-3.0 (image source)\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tNd:YAG laser by Kkmurray CC BY 3.0 (image source)\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tPowerful CO2 laser igniting target (image source)\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tCompo…",
+                "fallback": "Hackaday Link: How Lasers Actually Work",
+                "from_url": "https:\/\/hackaday.com\/2016\/06\/20\/how-lasers-actually-work\/",
+                "service_icon": "https:\/\/s0.wp.com\/wp-content\/themes\/vip\/hackaday-2\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "edited": {
+            "user": "U6GHG87HB",
+            "ts": "1504228723.000000"
+        },
+        "ts": "1504228704.000019"
+    }
+]

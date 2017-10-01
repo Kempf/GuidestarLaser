@@ -1,0 +1,79 @@
+[
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Chris, did you take minutes during the vendor meeting?",
+        "ts": "1506642674.000134"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "Yeah it's in the client comms folder ",
+        "ts": "1506642709.000168"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "I can see the second half, the first one, with the vendor, doesnt seem to be",
+        "ts": "1506642933.000164"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "I don't get what you mean?",
+        "ts": "1506643051.000216"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "So we had the video conference with the vendor, then a presentation\/meeting with EOS.\nDid you get minutes for the video conference?",
+        "ts": "1506643121.000203"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "yeah that's in client communication\/meeting notes",
+        "ts": "1506643153.000072"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "not in the typical minutes folder",
+        "ts": "1506643157.000297"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "The EOS meeting is in the minutes folder",
+        "ts": "1506643170.000141"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Ah, right.\nDanke",
+        "ts": "1506643428.000077",
+        "reactions": [
+            {
+                "name": "face_with_rolling_eyes",
+                "users": [
+                    "U6GHN174M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U6GUPSJ2Y"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rage",
+                "users": [
+                    "U6HEWMKC4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

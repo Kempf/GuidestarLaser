@@ -14,5 +14,121 @@
         "thread_ts": "1503807568.000039",
         "parent_user_id": "U6GC3A740",
         "ts": "1503818853.000046"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Do we feel there's a need to email tutors\/shadows before the audit presentation, or not? ",
+        "thread_ts": "1503828066.000050",
+        "reply_count": 3,
+        "replies": [
+            {
+                "user": "U6GHG87HB",
+                "ts": "1503828099.000039"
+            },
+            {
+                "user": "U6GUPSJ2Y",
+                "ts": "1503828178.000013"
+            },
+            {
+                "user": "U6GHG87HB",
+                "ts": "1503828213.000061"
+            }
+        ],
+        "unread_count": 3,
+        "ts": "1503828066.000050"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "You already sent them the summary doc, right?",
+        "thread_ts": "1503828066.000050",
+        "parent_user_id": "U6GUPSJ2Y",
+        "ts": "1503828099.000039"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Nope. The repo and relevant stuff is only just finalised.",
+        "thread_ts": "1503828066.000050",
+        "parent_user_id": "U6GUPSJ2Y",
+        "ts": "1503828178.000013"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "Oh sure why not, and include a read-only link to the presentation",
+        "thread_ts": "1503828066.000050",
+        "parent_user_id": "U6GUPSJ2Y",
+        "ts": "1503828213.000061"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Good luck today guys. Thanks for all the work you put in this weekend steve :+1::skin-tone-3:",
+        "ts": "1503874552.000016",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U6GHN174M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "<@U6GUPSJ2Y> did we manage to move the time if the presentation so Celine could come? Or at least inform her of the time?\n",
+        "ts": "1503881159.000083"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Working on swapping it. We will need to actually talk to the groups",
+        "ts": "1503881431.000049"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "I've let Celine know the current time, and that I'll let her know if sonething is arranged",
+        "ts": "1503881450.000140"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "Ok sounds good ",
+        "ts": "1503881476.000004"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Does anyone know our actual tutor or anyone in the other group that could cotnact them to ask about swapping?\nI can't find the info on wattle",
+        "ts": "1503881910.000142"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "Should be listed in the tutorial section of the techlauncher website ",
+        "ts": "1503881971.000089"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Actually, Celine can't make it regardless",
+        "ts": "1503883860.000004"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "So 1345 it is",
+        "ts": "1503883866.000035"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "And there's another cohort going first",
+        "ts": "1503889748.000080"
     }
 ]

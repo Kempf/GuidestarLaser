@@ -1,14 +1,14 @@
 [
     {
         "user": "U6GHG87HB",
-        "text": "<@U6GHG87HB|paul.apelt> has joined the channel",
+        "text": "<@U6GHG87HB> ist dem Channel beigetreten",
         "type": "message",
         "subtype": "channel_join",
         "ts": "1501588595.664909"
     },
     {
         "user": "U6GHN174M",
-        "text": "<@U6GHN174M|chris> has joined the channel",
+        "text": "<@U6GHN174M> ist dem Channel beigetreten",
         "type": "message",
         "subtype": "channel_join",
         "ts": "1501589534.973171"
@@ -43,7 +43,7 @@
     },
     {
         "user": "U6FQVARFA",
-        "text": "<@U6FQVARFA|wenjie_> has joined the channel",
+        "text": "<@U6FQVARFA> ist dem Channel beigetreten",
         "type": "message",
         "subtype": "channel_join",
         "ts": "1501593713.729035"
@@ -133,7 +133,7 @@
     },
     {
         "user": "U6GUPSJ2Y",
-        "text": "<@U6GUPSJ2Y|stevelon> has joined the channel",
+        "text": "<@U6GUPSJ2Y> ist dem Channel beigetreten",
         "type": "message",
         "subtype": "channel_join",
         "ts": "1501649743.869507"

@@ -1,0 +1,85 @@
+[
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "<!everyone> \nthis is a reminder to add a summary of what you've been working on or planning to do to the presentation\n<https:\/\/docs.google.com\/presentation\/d\/1jMZxCukPx--ZBQRgz2PcXL9bV2g-9_YzMjzdAsr_qN8\/edit?usp=sharing>",
+        "ts": "1505973788.000003"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U6GHG87HB> hat eine Datei geteilt: <https:\/\/guidestarlaser.slack.com\/files\/U6GHG87HB\/F76CKQED9\/client_meeting|Client Meeting>",
+        "file": {
+            "id": "F76CKQED9",
+            "created": 1505973789,
+            "timestamp": 1505973789,
+            "name": "Client Meeting",
+            "title": "Client Meeting",
+            "mimetype": "application\/vnd.google-apps.presentation",
+            "filetype": "gpres",
+            "pretty_type": "GDocs Presentation",
+            "user": "U6GHG87HB",
+            "editable": false,
+            "size": 261,
+            "mode": "external",
+            "is_external": true,
+            "external_type": "gdrive",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/docs.google.com\/presentation\/d\/1jMZxCukPx--ZBQRgz2PcXL9bV2g-9_YzMjzdAsr_qN8\/edit?usp=sharing",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F76CKQED9-995ac32722\/client_meeting_64.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F76CKQED9-995ac32722\/client_meeting_80.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F76CKQED9-995ac32722\/client_meeting_360.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_360_w": 360,
+            "thumb_360_h": 203,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F76CKQED9-995ac32722\/client_meeting_480.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_480_w": 480,
+            "thumb_480_h": 270,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F76CKQED9-995ac32722\/client_meeting_160.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F76CKQED9-995ac32722\/client_meeting_720.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_720_w": 720,
+            "thumb_720_h": 405,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F76CKQED9-995ac32722\/client_meeting_800.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_800_w": 800,
+            "thumb_800_h": 450,
+            "image_exif_rotation": 1,
+            "original_w": 800,
+            "original_h": 450,
+            "permalink": "https:\/\/guidestarlaser.slack.com\/files\/U6GHG87HB\/F76CKQED9\/client_meeting",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U6HEWMKC4"
+                    ],
+                    "count": 1
+                }
+            ],
+            "has_rich_preview": true
+        },
+        "user": "U6GHG87HB",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "paul.apelt",
+        "bot_id": null,
+        "ts": "1505973791.000012"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Just one slide yes?",
+        "ts": "1505975501.000216"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "I think there can be some leeway for the mechanical system cause it's rendersthat need to be clear",
+        "ts": "1505975551.000062"
+    }
+]

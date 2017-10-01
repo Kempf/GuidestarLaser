@@ -8,7 +8,7 @@
     {
         "type": "message",
         "subtype": "file_share",
-        "text": "<@U6GHN174M|chris> uploaded a file: <https:\/\/guidestarlaser.slack.com\/files\/chris\/F6N404ASY\/confidentiality_deed_and_ip_assignment_v6_2017s2.doc|Confidentiality Deed and IP Assignment_V6_2017S2.doc> and commented: This is the NDA with the new Annexture that Celine just approved this morning",
+        "text": "<@U6GHN174M> hat eine Datei hochgeladen: <https:\/\/guidestarlaser.slack.com\/files\/U6GHN174M\/F6N404ASY\/confidentiality_deed_and_ip_assignment_v6_2017s2.doc|Confidentiality Deed and IP Assignment_V6_2017S2.doc> und kommentiert: This is the NDA with the new Annexture that Celine just approved this morning",
         "file": {
             "id": "F6N404ASY",
             "created": 1502678434,
@@ -28,13 +28,11 @@
             "public_url_shared": false,
             "display_as_bot": false,
             "username": "",
-            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6N404ASY\/confidentiality_deed_and_ip_assignment_v6_2017s2.doc?t=xoxe-220462257090-231756888321-233380711959-347be61632",
-            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6N404ASY\/download\/confidentiality_deed_and_ip_assignment_v6_2017s2.doc?t=xoxe-220462257090-231756888321-233380711959-347be61632",
-            "permalink": "https:\/\/guidestarlaser.slack.com\/files\/chris\/F6N404ASY\/confidentiality_deed_and_ip_assignment_v6_2017s2.doc",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6N404ASY\/confidentiality_deed_and_ip_assignment_v6_2017s2.doc?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F6N404ASY\/download\/confidentiality_deed_and_ip_assignment_v6_2017s2.doc?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "permalink": "https:\/\/guidestarlaser.slack.com\/files\/U6GHN174M\/F6N404ASY\/confidentiality_deed_and_ip_assignment_v6_2017s2.doc",
             "permalink_public": "https:\/\/slack-files.com\/T6GDL7K2N-F6N404ASY-948ad7f708",
-            "channels": [
-                "C6HACRXFY"
-            ],
+            "channels": [],
             "groups": [],
             "ims": [],
             "comments_count": 1,

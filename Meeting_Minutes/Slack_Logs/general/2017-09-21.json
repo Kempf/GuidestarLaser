@@ -1,0 +1,90 @@
+[
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Ok",
+        "ts": "1505980412.000225"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Who is writing about environment? ",
+        "ts": "1505980422.000202"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Cause i have the link for the panels we are thinking of using on the frame",
+        "ts": "1505980439.000073"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "I'm working on parts of that at the moment.",
+        "ts": "1505980446.000202"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Okay",
+        "ts": "1505980459.000298"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Go into the docs chat",
+        "ts": "1505980467.000194"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "I'm there",
+        "ts": "1505980945.000286"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Do we have access to the telescope models?",
+        "ts": "1505986958.000356"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Nah we dont",
+        "ts": "1505989005.000233"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "<https:\/\/docs.google.com\/document\/d\/1h27lTUwhUGgSQN_XGEc9y3PonITgUp1G6u-UC2MK404\/edit?usp=sharing>",
+        "ts": "1506037645.000128"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "\n<https:\/\/www.overleaf.com\/11183242mvksvqtwyvph>",
+        "attachments": [
+            {
+                "title": "4221 - Air Subsystem Design Document -  Overleaf",
+                "title_link": "https:\/\/www.overleaf.com\/11183242mvksvqtwyvph",
+                "text": "The online platform for scientific writing. Overleaf is free: start writing now with one click. No sign-up required. Great on your iPad.",
+                "fallback": "4221 - Air Subsystem Design Document -  Overleaf",
+                "image_url": "https:\/\/www.overleaf.com\/assets\/logos\/overleaf_og_logo.png",
+                "from_url": "https:\/\/www.overleaf.com\/11183242mvksvqtwyvph",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 6147,
+                "service_icon": "https:\/\/www.overleaf.com\/favicon.ico",
+                "service_name": "overleaf.com",
+                "id": 1
+            }
+        ],
+        "ts": "1506038704.000082"
+    },
+    {
+        "type": "message",
+        "user": "U6GHG87HB",
+        "text": "Greg Fetzer\n<mailto:gfetzer@arete.com|gfetzer@arete.com>",
+        "ts": "1506060624.000064"
+    }
+]
