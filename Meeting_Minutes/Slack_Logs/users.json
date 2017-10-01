@@ -7,8 +7,8 @@
         "color": "e96699",
         "real_name": "Alex Dalton",
         "tz": "Australia\/Canberra",
-        "tz_label": "Australian Eastern Standard Time",
-        "tz_offset": 36000,
+        "tz_label": "Australian Eastern Daylight Time",
+        "tz_offset": 39600,
         "profile": {
             "first_name": "Alex",
             "last_name": "Dalton",
@@ -17,7 +17,9 @@
             "status_text": "Doing fine",
             "status_emoji": ":squirrel:",
             "real_name": "Alex Dalton",
+            "display_name": "adalton",
             "real_name_normalized": "Alex Dalton",
+            "display_name_normalized": "adalton",
             "image_24": "https:\/\/secure.gravatar.com\/avatar\/447a3c7a5860881088cefc2fe3534e76.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0011-24.png",
             "image_32": "https:\/\/secure.gravatar.com\/avatar\/447a3c7a5860881088cefc2fe3534e76.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0011-32.png",
             "image_48": "https:\/\/secure.gravatar.com\/avatar\/447a3c7a5860881088cefc2fe3534e76.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0011-48.png",
@@ -33,7 +35,7 @@
         "is_restricted": false,
         "is_ultra_restricted": false,
         "is_bot": false,
-        "updated": 1502431212,
+        "updated": 1504598440,
         "is_app_user": false
     },
     {
@@ -44,8 +46,8 @@
         "color": "674b1b",
         "real_name": "Brian Ma",
         "tz": "Australia\/Canberra",
-        "tz_label": "Australian Eastern Standard Time",
-        "tz_offset": 36000,
+        "tz_label": "Australian Eastern Daylight Time",
+        "tz_offset": 39600,
         "profile": {
             "first_name": "Brian",
             "last_name": "Ma",
@@ -61,7 +63,9 @@
             "image_1024": "https:\/\/avatars.slack-edge.com\/2017-08-02\/220996287923_ad5366563e29a8712857_1024.png",
             "image_original": "https:\/\/avatars.slack-edge.com\/2017-08-02\/220996287923_ad5366563e29a8712857_original.png",
             "real_name": "Brian Ma",
+            "display_name": "alphanovabrian",
             "real_name_normalized": "Brian Ma",
+            "display_name_normalized": "alphanovabrian",
             "fields": null,
             "team": "T6GDL7K2N"
         },
@@ -71,7 +75,7 @@
         "is_restricted": false,
         "is_ultra_restricted": false,
         "is_bot": false,
-        "updated": 1501999927,
+        "updated": 1504470045,
         "is_app_user": false
     },
     {
@@ -82,8 +86,8 @@
         "color": "4bbe2e",
         "real_name": "Chris Leow",
         "tz": "Australia\/Canberra",
-        "tz_label": "Australian Eastern Standard Time",
-        "tz_offset": 36000,
+        "tz_label": "Australian Eastern Daylight Time",
+        "tz_offset": 39600,
         "profile": {
             "first_name": "Chris",
             "last_name": "Leow",
@@ -99,7 +103,9 @@
             "image_original": "https:\/\/avatars.slack-edge.com\/2017-08-02\/221007155314_5a6fe104e31a5c73b08c_original.jpg",
             "fields": [],
             "real_name": "Chris Leow",
+            "display_name": "chris",
             "real_name_normalized": "Chris Leow",
+            "display_name_normalized": "chris",
             "team": "T6GDL7K2N"
         },
         "is_admin": false,
@@ -108,7 +114,7 @@
         "is_restricted": false,
         "is_ultra_restricted": false,
         "is_bot": false,
-        "updated": 1501667930,
+        "updated": 1504470052,
         "is_app_user": false
     },
     {
@@ -119,15 +125,17 @@
         "color": "9f69e7",
         "real_name": "Paul Apelt",
         "tz": "Australia\/Canberra",
-        "tz_label": "Australian Eastern Standard Time",
-        "tz_offset": 36000,
+        "tz_label": "Australian Eastern Daylight Time",
+        "tz_offset": 39600,
         "profile": {
             "first_name": "Paul",
             "last_name": "Apelt",
             "avatar_hash": "g60bfc8aa95f",
-            "status_emoji": "",
+            "status_emoji": ":awe:",
             "real_name": "Paul Apelt",
+            "display_name": "paul.apelt",
             "real_name_normalized": "Paul Apelt",
+            "display_name_normalized": "paul.apelt",
             "image_24": "https:\/\/secure.gravatar.com\/avatar\/60bfc8aa95f44ec30bceaf9abaa5dee7.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F0180%2Fimg%2Favatars%2Fava_0004-24.png",
             "image_32": "https:\/\/secure.gravatar.com\/avatar\/60bfc8aa95f44ec30bceaf9abaa5dee7.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0004-32.png",
             "image_48": "https:\/\/secure.gravatar.com\/avatar\/60bfc8aa95f44ec30bceaf9abaa5dee7.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0004-48.png",
@@ -143,7 +151,7 @@
         "is_restricted": false,
         "is_ultra_restricted": false,
         "is_bot": false,
-        "updated": 1503725286,
+        "updated": 1504470052,
         "is_app_user": false
     },
     {
@@ -154,15 +162,17 @@
         "color": "3c989f",
         "real_name": "Steve Lonergan",
         "tz": "Australia\/Hobart",
-        "tz_label": "Australian Eastern Standard Time",
-        "tz_offset": 36000,
+        "tz_label": "Australian Eastern Daylight Time",
+        "tz_offset": 39600,
         "profile": {
             "first_name": "Steve",
             "last_name": "Lonergan",
             "avatar_hash": "g0223fadaf5c",
             "title": "",
             "real_name": "Steve Lonergan",
+            "display_name": "stevelon",
             "real_name_normalized": "Steve Lonergan",
+            "display_name_normalized": "stevelon",
             "image_24": "https:\/\/secure.gravatar.com\/avatar\/0223fadaf5cb6e337174fe8ff8ab9a3c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F0180%2Fimg%2Favatars%2Fava_0003-24.png",
             "image_32": "https:\/\/secure.gravatar.com\/avatar\/0223fadaf5cb6e337174fe8ff8ab9a3c.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0003-32.png",
             "image_48": "https:\/\/secure.gravatar.com\/avatar\/0223fadaf5cb6e337174fe8ff8ab9a3c.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0003-48.png",
@@ -178,7 +188,7 @@
         "is_restricted": false,
         "is_ultra_restricted": false,
         "is_bot": false,
-        "updated": 1501649743,
+        "updated": 1504470069,
         "is_app_user": false
     },
     {
@@ -189,15 +199,17 @@
         "color": "e7392d",
         "real_name": "Wen Jie Mu",
         "tz": "Australia\/Canberra",
-        "tz_label": "Australian Eastern Standard Time",
-        "tz_offset": 36000,
+        "tz_label": "Australian Eastern Daylight Time",
+        "tz_offset": 39600,
         "profile": {
             "first_name": "Wen Jie",
             "last_name": "Mu",
             "avatar_hash": "g9077f1342af",
             "title": "",
             "real_name": "Wen Jie Mu",
+            "display_name": "wenjie_",
             "real_name_normalized": "Wen Jie Mu",
+            "display_name_normalized": "wenjie_",
             "image_24": "https:\/\/secure.gravatar.com\/avatar\/9077f1342af3658ad7f57613105341db.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F0180%2Fimg%2Favatars%2Fava_0021-24.png",
             "image_32": "https:\/\/secure.gravatar.com\/avatar\/9077f1342af3658ad7f57613105341db.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0021-32.png",
             "image_48": "https:\/\/secure.gravatar.com\/avatar\/9077f1342af3658ad7f57613105341db.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F3654%2Fimg%2Favatars%2Fava_0021-48.png",
@@ -213,7 +225,7 @@
         "is_restricted": false,
         "is_ultra_restricted": false,
         "is_bot": false,
-        "updated": 1501593713,
+        "updated": 1504470022,
         "is_app_user": false
     }
 ]
