@@ -1,0 +1,19 @@
+[
+    {
+        "user": "U6GHG87HB",
+        "purpose": "Channel for Wen Jie to tell us when he can't make it.",
+        "text": "<@U6GHG87HB> hat die Zielsetzung für den Channel festgelegt: Channel for Wen Jie to tell us when he can't make it.",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1504774550.000458",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U6GHN174M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

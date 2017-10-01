@@ -1,0 +1,262 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U6GHN174M> hat eine Datei hochgeladen: <https:\/\/guidestarlaser.slack.com\/files\/U6GHN174M\/F7CDU0947\/pasted_image_at_2017_09_30_07_23_pm.png|What kinda minutes do you take Paul when i'm not here>",
+        "file": {
+            "id": "F7CDU0947",
+            "created": 1506763455,
+            "timestamp": 1506763455,
+            "name": "Pasted image at 2017_09_30 07_23 PM.png",
+            "title": "What kinda minutes do you take Paul when i'm not here",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U6GHN174M",
+            "editable": false,
+            "size": 2295,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F7CDU0947\/pasted_image_at_2017_09_30_07_23_pm.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F7CDU0947\/download\/pasted_image_at_2017_09_30_07_23_pm.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F7CDU0947-f39db5229d\/pasted_image_at_2017_09_30_07_23_pm_64.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F7CDU0947-f39db5229d\/pasted_image_at_2017_09_30_07_23_pm_80.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F7CDU0947-f39db5229d\/pasted_image_at_2017_09_30_07_23_pm_360.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_360_w": 338,
+            "thumb_360_h": 26,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F7CDU0947-f39db5229d\/pasted_image_at_2017_09_30_07_23_pm_160.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "image_exif_rotation": 1,
+            "original_w": 338,
+            "original_h": 26,
+            "permalink": "https:\/\/guidestarlaser.slack.com\/files\/U6GHN174M\/F7CDU0947\/pasted_image_at_2017_09_30_07_23_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T6GDL7K2N-F7CDU0947-a7c68ba502",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 2
+        },
+        "user": "U6GHN174M",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "chris",
+        "bot_id": null,
+        "ts": "1506763456.000021"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "also why is it just a text file",
+        "ts": "1506763524.000013"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U6GHG87HB> hat <@U6GHN174M>’s Datei <https:\/\/guidestarlaser.slack.com\/files\/U6GHN174M\/F7CDU0947\/pasted_image_at_2017_09_30_07_23_pm.png|What kinda minutes do you take Paul when i'm not here> kommentiert: hey, that one's on steve",
+        "file": {
+            "id": "F7CDU0947",
+            "created": 1506763455,
+            "timestamp": 1506763455,
+            "name": "Pasted image at 2017_09_30 07_23 PM.png",
+            "title": "What kinda minutes do you take Paul when i'm not here",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U6GHN174M",
+            "editable": false,
+            "size": 2295,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F7CDU0947\/pasted_image_at_2017_09_30_07_23_pm.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F7CDU0947\/download\/pasted_image_at_2017_09_30_07_23_pm.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F7CDU0947-f39db5229d\/pasted_image_at_2017_09_30_07_23_pm_64.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F7CDU0947-f39db5229d\/pasted_image_at_2017_09_30_07_23_pm_80.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F7CDU0947-f39db5229d\/pasted_image_at_2017_09_30_07_23_pm_360.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_360_w": 338,
+            "thumb_360_h": 26,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F7CDU0947-f39db5229d\/pasted_image_at_2017_09_30_07_23_pm_160.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "image_exif_rotation": 1,
+            "original_w": 338,
+            "original_h": 26,
+            "permalink": "https:\/\/guidestarlaser.slack.com\/files\/U6GHN174M\/F7CDU0947\/pasted_image_at_2017_09_30_07_23_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T6GDL7K2N-F7CDU0947-a7c68ba502",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 2
+        },
+        "comment": {
+            "id": "Fc7BB8S266",
+            "created": 1506763563,
+            "timestamp": 1506763563,
+            "user": "U6GHG87HB",
+            "is_intro": false,
+            "comment": "hey, that one's on steve"
+        },
+        "is_intro": false,
+        "ts": "1506763563.000030"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U6GHN174M> hat <@U6GHN174M>’s Datei <https:\/\/guidestarlaser.slack.com\/files\/U6GHN174M\/F7CDU0947\/pasted_image_at_2017_09_30_07_23_pm.png|What kinda minutes do you take Paul when i'm not here> kommentiert: still it's like the second line in the minutes. Not subtle enough to get away with it",
+        "file": {
+            "id": "F7CDU0947",
+            "created": 1506763455,
+            "timestamp": 1506763455,
+            "name": "Pasted image at 2017_09_30 07_23 PM.png",
+            "title": "What kinda minutes do you take Paul when i'm not here",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U6GHN174M",
+            "editable": false,
+            "size": 2295,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F7CDU0947\/pasted_image_at_2017_09_30_07_23_pm.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F7CDU0947\/download\/pasted_image_at_2017_09_30_07_23_pm.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F7CDU0947-f39db5229d\/pasted_image_at_2017_09_30_07_23_pm_64.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F7CDU0947-f39db5229d\/pasted_image_at_2017_09_30_07_23_pm_80.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F7CDU0947-f39db5229d\/pasted_image_at_2017_09_30_07_23_pm_360.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "thumb_360_w": 338,
+            "thumb_360_h": 26,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T6GDL7K2N-F7CDU0947-f39db5229d\/pasted_image_at_2017_09_30_07_23_pm_160.png?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "image_exif_rotation": 1,
+            "original_w": 338,
+            "original_h": 26,
+            "permalink": "https:\/\/guidestarlaser.slack.com\/files\/U6GHN174M\/F7CDU0947\/pasted_image_at_2017_09_30_07_23_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T6GDL7K2N-F7CDU0947-a7c68ba502",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 2
+        },
+        "comment": {
+            "id": "Fc7AMJCTAL",
+            "created": 1506763628,
+            "timestamp": 1506763628,
+            "user": "U6GHN174M",
+            "is_intro": false,
+            "comment": "still it's like the second line in the minutes. Not subtle enough to get away with it"
+        },
+        "is_intro": false,
+        "ts": "1506763628.000046"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Look, that is taken out of context.\n\n\"...Back of hand Calculations\" -A\n\"Back of hand? You mean back of envelope?\" -S\n\"Back of hand is the lowest level. Then it goes up to back of envelope\"\n\"Oh yeah, right, cause you can just *rub it off in the shower*, unlike an envelope\"",
+        "ts": "1506763716.000044"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "tbh i'm not surprised that this came up in a meeting anyway, but why record it",
+        "ts": "1506763770.000045"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "also you know I told you that the poster template was already in the repository last week right?",
+        "ts": "1506763788.000020"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Blame Paul.\n\nThe full template including all figures etc.?",
+        "ts": "1506763812.000058"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Found components, but not the individual files",
+        "ts": "1506763832.000090"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "ah ok then. I thought the components were going to be enough but that's cool we can talk about it next friday. I'll try and make up those 10 hours before then",
+        "ts": "1506763877.000034"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Alright, cool.\n\nDo you have anything planned for those 10h?",
+        "ts": "1506763910.000034"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "I was going to work on the subsystem report for the mechanical but it looks like more has been added",
+        "ts": "1506764030.000086"
+    },
+    {
+        "type": "message",
+        "user": "U6GHN174M",
+        "text": "is there anything that you think I should work on instead",
+        "ts": "1506764038.000062"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "So, one area that we haven't really looked at is logistics.\n\nI suspect (based off the model, and that it's preassembled) that it will need to go in through the shutters (doorway \/ access hatches are likely not large enough to get it through, though need to confirm that with measurements). So, it'd just be a matter of making a note of that in the design report, and updating the USSS to reflect this.\n\nThere are possibly a couple other things that might be good to get your input on, but I'll have to check with those tomorrow",
+        "ts": "1506778869.000042"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Yep the plan is to assemble the whole thing in the laser lab and then transport to the telescope",
+        "ts": "1506813945.000046"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "If you have time <@U6GHN174M>, i might send you what i have on the mounting concepts ",
+        "ts": "1506814188.000012"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "See what you think",
+        "ts": "1506814199.000034"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Okay,  with breadboards 1500 x 750 x 105, the enclosure is gonna be larger (can't recall exact value), but the hatch to the observation level is 1140 x 520, so that's too small\nAdditionally, the stairs from the entry floor to the middle floor are only 605 wide, so again too small. \nOnly option is to crane it in.",
+        "ts": "1506827131.000046"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "So, logistics are simple.\n\"Due to dimensions of both the enclosure and the dome, and the requirement for it to be assembled prior to installation (Cite PC:JW), the only possible option for transferring the enclosure into the dome is to transport it in via the observation shutters (1800 x 2900mm).\"",
+        "ts": "1506827275.000037"
+    },
+    {
+        "type": "message",
+        "user": "U6GUPSJ2Y",
+        "text": "Bottom floor stuff will go through the main door.\nTop floor stuff could just be craned in with the enclosure or walked up, depending on size and if preinstallation is required",
+        "ts": "1506827314.000043"
+    },
+    {
+        "type": "message",
+        "user": "U6HEWMKC4",
+        "text": "Sounds good Steve",
+        "ts": "1506828651.000033"
+    }
+]

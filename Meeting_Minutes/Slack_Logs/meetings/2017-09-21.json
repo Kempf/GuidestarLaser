@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U6GHN174M> hat eine Datei hochgeladen: <https:\/\/guidestarlaser.slack.com\/files\/U6GHN174M\/F786B39FH\/22_sep_stakeholder_client_presentation.docx|22_Sep_Stakeholder_Client_Presentation.docx>",
+        "file": {
+            "id": "F786B39FH",
+            "created": 1506052848,
+            "timestamp": 1506052848,
+            "name": "22_Sep_Stakeholder_Client_Presentation.docx",
+            "title": "22_Sep_Stakeholder_Client_Presentation.docx",
+            "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filetype": "docx",
+            "pretty_type": "Word Document",
+            "user": "U6GHN174M",
+            "editable": false,
+            "size": 21031,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F786B39FH\/22_sep_stakeholder_client_presentation.docx?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T6GDL7K2N-F786B39FH\/download\/22_sep_stakeholder_client_presentation.docx?t=xoxe-220462257090-249463845235-249594026788-a400f88cdb",
+            "permalink": "https:\/\/guidestarlaser.slack.com\/files\/U6GHN174M\/F786B39FH\/22_sep_stakeholder_client_presentation.docx",
+            "permalink_public": "https:\/\/slack-files.com\/T6GDL7K2N-F786B39FH-f0dc67e9d5",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U6GHN174M",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "chris",
+        "bot_id": null,
+        "ts": "1506052848.000216"
+    }
+]
