@@ -3,4 +3,5 @@
 *	**solidworks_models**: files relating to SolidWorks modelling of the mounting frame
 
 ### Files
-*	Scanned copy of the Carbon Figure breadboard specifications
+*	**Breadboard_DataSheet.pdf**: scanned copy of the Carbon Figure breadboard specifications
+*	**README.md**: this file
