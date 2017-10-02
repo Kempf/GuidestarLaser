@@ -8,7 +8,7 @@ This folder is the general folder for storage of files and work completed.
 *	**Dome_Photos**: photos of the telescope space.
 *	**Electrical_Interface_Preliminary_Design**: electrical schematics and considerations.
 *	**Figures**: generic figures for reports, diagrams, etc.
-*	**Mechanical_Interface_Preliminary_Design**: CAD frame designs.
+*	**Mechanical_Interface_Preliminary_Design**: CAD frame design and ANSYS analysis
 *	**Outdated**: contains old versions of documents.
 
 ### Files
