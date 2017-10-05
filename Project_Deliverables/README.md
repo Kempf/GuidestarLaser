@@ -16,7 +16,9 @@ This folder is the general folder for storage of files and work completed.
 	
 *	`ProForma_Verxxx.pdf`:		Details the scope of the project, the project objectives and deliverables, as well as a basic scheduling, project breakdown, and risk analysis. This is intended as an update of the previous teams work, as well as an overview of the project. Overleaf: https://www.overleaf.com/10595988ydvxrwtmksfk#/39637919/
 	
-*	`System_Subsystem_Requirements_Updated_Ver001`:      Updated System Requirements Document. Build off System_Subsystem_Requirements. Overleaf:  https://www.overleaf.com/10750310ksnspqwxvswk  Work-In-Progress
+*	`Clean_System_Subsystem_Requirements_Updated_Ver001`:      Updated System Requirements Document. Cleaned of old requirements. Overleaf:  https://www.overleaf.com/10750310ksnspqwxvswk  Work-In-Progress
+
+*	`Trace_System_Subsystem_Requirements_Updated_Ver001`:      Updated System Requirements Document. Build off System_Subsystem_Requirements. Overleaf:  https://www.overleaf.com/11432648vkzvdvqvqdgp  Work-In-Progress
 
 *	`System_Subsystem_Requirements.pdf`:     System Subsystem Specifications - from previous team work
 
