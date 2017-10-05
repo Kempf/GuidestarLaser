@@ -1,19 +1,26 @@
 Project Summary
 This iteration of the project utilises design requirements from the previous group to synthesis a concept design for a system interface that is capable of accommodating two Guide Star Laser (GSL) solutions for a 1.8m telescope. A GSL creates an artificial star known as a Laser Guide Star (LGS) in the atmosphere that enables the measurement of phase distortions caused by atmospheric turbulence. Thus, an Adaptive Optics (AO) system for satellite Imaging (AOI) and space debris Tracking and Pushing is enabled (AOTP). 
+
 Laser Enclosure
 [IMAGE Frame]
 The quasi-isotropic carbon fibre/epoxy composite frame is designed to accommodate two breadboards using square hollow section members and prefabricated gusset plates from DragonPlate an American manufacturer. By utilising carbon fibre, it reduces the mass of the structure while also the Coefficient of Thermal Expansion (CTE) in comparison to steel, that would otherwise affect the alignment of instrumentation on the breadboards during extreme temperature changes the telescope is exposed to. Removable opaque panelling made of ?? will be placed on the sides of the frame to adhere to laser safety, while also reducing dust particulates settling on the breadboards. 
+
 ANU Aux EC
+
 
 Logistics
 There is not enough information 
+
 Wiring (vibration + environment)
 Air quality within the enclosure is required to be ISO 7 standard, and temperature must be regulated to enable the temperature range to remain between 5℃-30℃. A closed air circulating system to filter air and cool enclosure air. 
 [IMAGE]
 The ANU GSL has vibrationally sensitive components that will be dampened, while the EOS GSL will be require further analysis as coolers and fans may disrupt instrumentation alignment on breadboards. 
+
 EOS Oscillators
 The Electro-Optic Systems (EOS) Oscillators and vibrationally sensitive and therefore have been relocated to the clean room, resulting in the need for wiring to run from the clean room to the observation deck in the telescope. 
+
 EOS Aux EC
+
 
 Acknowledgements
 James Webb, Mark Blundell, Celine d’Orgeville, Jordan Davis
