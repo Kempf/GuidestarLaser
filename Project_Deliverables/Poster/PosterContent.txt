@@ -1,29 +1,32 @@
 Project Summary
-This iteration of the project utilises design requirements from the previous group to synthesis a concept design for a system interface that is capable of accommodating two Guide Star Laser (GSL) solutions for a 1.8m telescope. A GSL creates an artificial star known as a Laser Guide Star (LGS) in the atmosphere that enables the measurement of phase distortions caused by atmospheric turbulence. Thus, an Adaptive Optics (AO) system for satellite Imaging (AOI) and space debris Tracking and Pushing is enabled (AOTP). 
+
+A Guide Star Laser (GSL) creates an artificial star in the atmosphere known as a Laser Guide Star (LGS), which enables the measurement of light distortion caused by atmospheric turbulance. Adaptive Optics (AO) systems use these measurements to correct for this distortion and improve imaging quality.
+The ANU and Electric-Optic Systems (EOS) are currently designing two GSL systems for Space Debris Tracking and Pushing. The objective of this project was to develop the concept design for the system interface with the 1.8m telescope at Mount Stromlo. This is the second phase of this student led project, with the first phase involving the development of a comprehensive requirements document.
+
 
 Laser Enclosure
 [IMAGE Frame]
-The quasi-isotropic carbon fibre/epoxy composite frame is designed to accommodate two breadboards using square hollow section members and prefabricated gusset plates from DragonPlate an American manufacturer. By utilising carbon fibre, it reduces the mass of the structure while also the Coefficient of Thermal Expansion (CTE) in comparison to steel, that would otherwise affect the alignment of instrumentation on the breadboards during extreme temperature changes the telescope is exposed to. Removable opaque panelling made of ?? will be placed on the sides of the frame to adhere to laser safety, while also reducing dust particulates settling on the breadboards. 
+A frame was designed to mount the GSL Laser Heads to the 1.8m telescope. The frame accomodates two optical breadboards and is constructed from DragonPlate Carbon Fibre/Epoxy components, steel inserts and various fasteners.
+Insulation panelling and radiators are used to ensure the enclosure temperature remains within tolerable limits. A closed air circulation and filtration system is used to keep air quality to the required ISO 7 Standard. 
 
 ANU Aux EC
 The ANU laser power draw requirements are still unknown as the vendor agreement was recently signed, but it will require less than 800W of cooling and 1 CAN bus to monitor and control the status. The electrical cabinet will require one main power socket and the possibility of an additional cooler and power socket that has yet to be finalised. 
 
-Logistics
-Need to work on this 
 
-Wiring (vibration + environment)
-Air quality within the enclosure is required to be ISO 7 standard, and temperature must be regulated to enable the temperature range to remain between 5℃-30℃. A closed air circulating system to filter air and cool enclosure air. 
 [IMAGE]
 The ANU GSL has vibrationally sensitive components that will be dampened, while the EOS GSL will be require further analysis as coolers and fans may disrupt instrumentation alignment on breadboards. 
 
 EOS Oscillators
-The Electro-Optic Systems (EOS) Oscillators and vibrationally sensitive and therefore have been relocated to the clean room, resulting in the need for wiring to run from the clean room to the observation deck in the telescope. 
+The EOS Oscillators are sensitive to vibrations and have been relocated to an external clean room. This requires additional wiring to connect the oscillators to the observation level. 
 
 EOS Aux EC
-The EOS GSL requires a standard power socket to provide 2.4kW of power single phase controlled using a CAN bus and an ethernet cable for maintenance. The heat exchangers will require 3 main power sockets and 1 for the chiller that will provide approximately 400W of water cooling. The EOS GSL requires a minimum of 10 power cables that enter the breadboard for coolers, heat exchangers and providing power. 
+The EOS GSL requires a standard power socket to provide 2.4kW of power single phase controlled using a CAN bus and an ethernet cable for maintenance. The heat exchangers will require 3 main power sockets and 1 for the chiller that will provide approximately 400W of water cooling. The EOS GSL requires a minimum of 10 power cables that enter the breadboard for coolers, heat exchangers and providing power.
+
+Summary
+Review and additional development of the interface requirements was undertaken by the team. Conceptual designs for the various subsystems were then developed. The designs and recommendations were provided to the client in a Concept Design Report and Subsystem Design Reports. The next phase of the project will involve the development of detailed designs. The team will produce a handover document that introduces the new team to project and outlines the recommended next steps.
 
 Acknowledgements
-James Webb, Mark Blundell, Celine d’Orgeville, Jordan Davis
+James Webb, Mark Blundell, Celine d’Orgeville, Jordan Davis, Gerrard Kennedy and all others at ANU, AITC and EOS who made this project possible.
 
 
 
