@@ -6,7 +6,7 @@ Laser Enclosure
 The quasi-isotropic carbon fibre/epoxy composite frame is designed to accommodate two breadboards using square hollow section members and prefabricated gusset plates from DragonPlate an American manufacturer. By utilising carbon fibre, it reduces the mass of the structure while also the Coefficient of Thermal Expansion (CTE) in comparison to steel, that would otherwise affect the alignment of instrumentation on the breadboards during extreme temperature changes the telescope is exposed to. Removable opaque panelling made of ?? will be placed on the sides of the frame to adhere to laser safety, while also reducing dust particulates settling on the breadboards. 
 
 ANU Aux EC
-The ANU laser power draw requirements are still unknown as the vendor agreement was recently signed, but it will require less than 800W of cooling and 1 ethernet cable to monitor and control the status. The electrical cabinet will require one main power socket and the possibility of an additional cooler and power socket that has yet to be finalised. 
+The ANU laser power draw requirements are still unknown as the vendor agreement was recently signed, but it will require less than 800W of cooling and 1 CAN bus to monitor and control the status. The electrical cabinet will require one main power socket and the possibility of an additional cooler and power socket that has yet to be finalised. 
 
 Logistics
 Need to work on this 
