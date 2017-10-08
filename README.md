@@ -36,12 +36,11 @@ All team members will contribute to related project tasks as required.
 
 The readmes of the higher level directories detail their contents, to aid in finding the relevant files and information. 
 
-In this audit cycle, we have completed the first phase of our project - familiarisation, review and updating the work of the previous team, 
-a full project analysis including scheduling, risk assessment and mitigation as well as assigning new work packages and allocation of these to team-members, and 
-reviewing previous feedback that we have received.
+In this audit cycle, we have completed the seecond, and majority of the third phase of our project - this has been completion of concept designs for each of the Environmental, Mechanical, and Electrical work packages. This is shown in 
+the reports for each section. We have also further updated the system subsystem requirements to reflect the current state of the project. The handover document, as well as the Concept Design Report, are still to be completed, however these are 
+summaries of the work package reports.
 
-We have begun the second phase, which involves the initial work on the different work packages, with initial CAD models already completed, and Electrical, Cooling, and Vibration 
-analysis well underway.
+Significant additional information became available in this time period due to the contract on the laser being arranged, however there are still gaps in this information which will be tasked to the next project team.
 
 To get an understanding of what the most relevant files are for this (2nd) audit, go to:
 [Current Status Directory](https://gitlab.cecs.anu.edu.au/u5568225/GuidestarLaser/tree/master/Current_Status) 

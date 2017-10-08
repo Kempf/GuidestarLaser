@@ -7,9 +7,12 @@ This folder is the general folder for storage of files and work completed.
 *	**Concept_Design_Report_Documentation**: contains the concept design report.
 *	**Dome_Photos**: photos of the telescope space.
 *	**Electrical_Interface_Preliminary_Design**: electrical schematics and considerations.
+*	**Environmental_Interface_Preliminary_Design**: environmental schematics and considerations.
 *	**Figures**: generic figures for reports, diagrams, etc.
+*	**Liquid Cooling**:	Cooling schematics folder
 *	**Mechanical_Interface_Preliminary_Design**: CAD frame design and ANSYS analysis
 *	**Outdated**: contains old versions of documents.
+*	**Poster**:	Contains the poster for submission
 
 ### Files
 *	`Work_Ethic_Agreement.docx`:	This file details the expectations that the group has for each group member, regarding weekly workload and work locations, as well as communications standards, and expectations in the event of absences.
