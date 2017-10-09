@@ -13,3 +13,5 @@ Contains additional files relating to client correspondence (This will potential
 
 *	[Questions for ANU Laser team](https://docs.google.com/document/d/101ov5f6TUorRwxF0RoaHoPD7qzghxyLS7KKh2AlDFOE/edit?usp=sharing) (google doc)
 		
+*	**Project_Contracts.pdf**:	Contains list of contacts for the project work
+		
