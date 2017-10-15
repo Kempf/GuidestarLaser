@@ -11,3 +11,4 @@ Final project outputs
 *	`Environmental_Subsystem_Design.pdf`:	Design report of the environmental system. Overleaf: https://www.overleaf.com/read/kgrchxybbxrv
 *	`Mechanical_Subsystem_Design.pdf`:	Design report of the mechanical system. Overleaf: https://www.overleaf.com/read/rwhvbqhndjvv
 *   `Updated_System_Subsystem_Specifications_Verxxx`: contains system requirements.
+*   `Handover_Document.pdf`: contains information for the next team.
