@@ -67,6 +67,8 @@ tutorials, and client meetings.
 for our continuation of their work. The readme file within this repository
 contains the contents and breakdown, in order to avoid oversaturating this file.
 
-* **Project Deliverables**: this directory contains **techincal project documents**, **requirements** and
+* **Project Deliverables**: contains final project outputs, concept and subsystem design reports.
+
+* **Working Files**: this directory contains **techincal project documents**, **requirements** and
 deliverables. Confidential documents are not available for viewing, however
 a brief description is provided in the readme file. 
