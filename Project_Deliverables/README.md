@@ -2,7 +2,7 @@
 Final project outputs
 
 ### Directories
-
+*   **CAD**: contains solidworks laser enclosure models.
 ### Files
 
 *	`ProForma_Ver005.pdf`:	[Overleaf](https://www.overleaf.com/10595988ydvxrwtmksfk) Initial project document, giving project outline, status, and risks associated with it.
